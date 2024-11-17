@@ -1,0 +1,4 @@
+langchain-text-splitters
+langchain_pinecone
+langchain_openai
+langchain
