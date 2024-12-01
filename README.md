@@ -64,3 +64,11 @@ To install the required packages, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+To run the project, execute the following command:
+
+```bash
+fastapi dev backend/api.py
+```
