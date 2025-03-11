@@ -1,0 +1,12 @@
+2025-03-11 09:27:49,190 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-11 09:27:49,191 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:27:49,465 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 09:28:05,485 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-11 09:28:05,486 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:28:05,735 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 14:53:13,854 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-11 14:53:13,855 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 14:53:13,855 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 14:53:15,143 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 14:53:15,143 - lightrag - INFO - Query nodes: Top themes, Categories, Subjects, Topics, top_k: 60, cosine: 0.2
+2025-03-11 14:53:15,162 - lightrag - INFO - Query edges: Themes, Knowledge scope, top_k: 60, cosine: 0.2

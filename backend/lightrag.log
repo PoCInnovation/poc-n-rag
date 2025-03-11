@@ -1,0 +1,1071 @@
+2025-03-09 18:26:45,988 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-09 18:26:46,771 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 18:27:53,518 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-09 18:27:53,519 - lightrag - INFO - Inserting 14 to doc_status
+2025-03-09 18:27:53,519 - lightrag - INFO - Stored 14 new unique documents
+2025-03-09 18:27:53,519 - lightrag - INFO - Number of batches to process: 1.
+2025-03-09 18:27:53,519 - lightrag - INFO - Start processing batch 1 of 1.
+2025-03-09 18:27:57,845 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:27:57,845 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:27:57,846 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:27:57,846 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:27:57,929 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:28:05,987 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:28:05,987 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:28:12,489 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:28:12,490 - lightrag - INFO -   Chunk 1/1: extracted 7 entities and 2 relationships (deduplicated)
+2025-03-09 18:28:12,490 - lightrag - INFO - Extracted 7 entities and 2 relationships (deduplicated)
+2025-03-09 18:28:12,490 - lightrag - INFO - Inserting 7 to entities
+2025-03-09 18:28:13,637 - lightrag - INFO - Inserting 2 to relationships
+2025-03-09 18:28:15,055 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:28:15,056 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:28:15,059 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:28:15,060 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:28:15,060 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:28:15,085 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:28:24,259 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:28:24,260 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:28:34,391 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:28:34,391 - lightrag - INFO -   Chunk 1/1: extracted 10 entities and 2 relationships (deduplicated)
+2025-03-09 18:28:34,392 - lightrag - INFO - Extracted 10 entities and 2 relationships (deduplicated)
+2025-03-09 18:28:34,392 - lightrag - INFO - Inserting 10 to entities
+2025-03-09 18:28:36,422 - lightrag - INFO - Inserting 2 to relationships
+2025-03-09 18:28:37,478 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:28:37,479 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:28:37,479 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:28:37,479 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:28:37,480 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:28:37,505 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:28:46,072 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:28:46,073 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:28:53,796 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:28:53,796 - lightrag - INFO -   Chunk 1/1: extracted 9 entities and 3 relationships (deduplicated)
+2025-03-09 18:28:53,797 - lightrag - INFO - Extracted 9 entities and 3 relationships (deduplicated)
+2025-03-09 18:28:53,797 - lightrag - INFO - Inserting 9 to entities
+2025-03-09 18:28:54,573 - lightrag - INFO - Inserting 3 to relationships
+2025-03-09 18:28:56,221 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:28:56,222 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:28:56,226 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:28:56,226 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:28:56,226 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:28:56,249 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:29:10,016 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:29:10,016 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:29:15,398 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:29:15,398 - lightrag - INFO -   Chunk 1/1: extracted 15 entities and 6 relationships (deduplicated)
+2025-03-09 18:29:15,399 - lightrag - INFO - Extracted 15 entities and 6 relationships (deduplicated)
+2025-03-09 18:29:15,399 - lightrag - INFO - Inserting 15 to entities
+2025-03-09 18:29:16,064 - lightrag - INFO - Inserting 6 to relationships
+2025-03-09 18:29:17,738 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:29:17,738 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:29:17,742 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:29:17,743 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:29:17,743 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:29:17,764 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:29:20,889 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:29:20,890 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:29:23,246 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:29:23,246 - lightrag - INFO -   Chunk 1/1: extracted 4 entities and 1 relationships (deduplicated)
+2025-03-09 18:29:23,250 - lightrag - INFO - Extracted 4 entities and 1 relationships (deduplicated)
+2025-03-09 18:29:23,250 - lightrag - INFO - Inserting 4 to entities
+2025-03-09 18:29:24,803 - lightrag - INFO - Inserting 1 to relationships
+2025-03-09 18:29:25,514 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:29:25,515 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:29:25,515 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:29:25,515 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:29:25,515 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:29:25,537 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:29:32,256 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:29:32,257 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:29:37,705 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:29:37,706 - lightrag - INFO -   Chunk 1/1: extracted 10 entities and 3 relationships (deduplicated)
+2025-03-09 18:29:37,706 - lightrag - INFO - Extracted 10 entities and 3 relationships (deduplicated)
+2025-03-09 18:29:37,706 - lightrag - INFO - Inserting 10 to entities
+2025-03-09 18:29:38,680 - lightrag - INFO - Inserting 3 to relationships
+2025-03-09 18:29:40,357 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:29:40,358 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:29:40,362 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:29:40,362 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:29:40,362 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:29:40,384 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:29:49,460 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:29:49,461 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:29:56,633 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:29:56,633 - lightrag - INFO -   Chunk 1/1: extracted 10 entities and 8 relationships (deduplicated)
+2025-03-09 18:29:56,634 - lightrag - INFO - Extracted 10 entities and 8 relationships (deduplicated)
+2025-03-09 18:29:56,634 - lightrag - INFO - Inserting 10 to entities
+2025-03-09 18:29:57,745 - lightrag - INFO - Inserting 8 to relationships
+2025-03-09 18:29:58,656 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:29:58,656 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:29:58,660 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:29:58,661 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:29:58,661 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:29:58,684 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:07,847 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:07,847 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:12,093 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:12,093 - lightrag - INFO -   Chunk 1/1: extracted 5 entities and 5 relationships (deduplicated)
+2025-03-09 18:30:12,094 - lightrag - INFO - Extracted 5 entities and 5 relationships (deduplicated)
+2025-03-09 18:30:12,094 - lightrag - INFO - Inserting 5 to entities
+2025-03-09 18:30:13,441 - lightrag - INFO - Inserting 5 to relationships
+2025-03-09 18:30:14,223 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:30:14,224 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:30:14,228 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:30:14,228 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:30:14,228 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:30:14,250 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:18,644 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:18,644 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:21,716 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:21,716 - lightrag - INFO -   Chunk 1/1: extracted 4 entities and 1 relationships (deduplicated)
+2025-03-09 18:30:21,717 - lightrag - INFO - Extracted 4 entities and 1 relationships (deduplicated)
+2025-03-09 18:30:21,718 - lightrag - INFO - Inserting 4 to entities
+2025-03-09 18:30:22,379 - lightrag - INFO - Inserting 1 to relationships
+2025-03-09 18:30:23,104 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:30:23,105 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:30:23,109 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:30:23,109 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:30:23,110 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:30:23,138 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:28,577 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:28,577 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:37,793 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:37,794 - lightrag - INFO -   Chunk 1/1: extracted 8 entities and 2 relationships (deduplicated)
+2025-03-09 18:30:37,795 - lightrag - INFO - Extracted 8 entities and 2 relationships (deduplicated)
+2025-03-09 18:30:37,795 - lightrag - INFO - Inserting 8 to entities
+2025-03-09 18:30:38,486 - lightrag - INFO - Inserting 2 to relationships
+2025-03-09 18:30:39,954 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:30:39,955 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:30:39,959 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:30:39,959 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:30:39,959 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:30:39,985 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:45,783 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:45,783 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:46,702 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:46,703 - lightrag - INFO -   Chunk 1/1: extracted 3 entities and 2 relationships (deduplicated)
+2025-03-09 18:30:46,703 - lightrag - INFO - Extracted 3 entities and 2 relationships (deduplicated)
+2025-03-09 18:30:46,703 - lightrag - INFO - Inserting 3 to entities
+2025-03-09 18:30:47,646 - lightrag - INFO - Inserting 2 to relationships
+2025-03-09 18:30:48,759 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:30:48,760 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:30:48,764 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:30:48,764 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:30:48,764 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:30:48,786 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:30:57,807 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:30:57,807 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:31:12,077 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:31:12,077 - lightrag - INFO -   Chunk 1/1: extracted 16 entities and 2 relationships (deduplicated)
+2025-03-09 18:31:12,079 - lightrag - INFO - Extracted 16 entities and 2 relationships (deduplicated)
+2025-03-09 18:31:12,079 - lightrag - INFO - Inserting 16 to entities
+2025-03-09 18:31:18,695 - lightrag - INFO - Inserting 2 to relationships
+2025-03-09 18:31:19,685 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:31:19,686 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:31:19,690 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:31:19,690 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:31:19,690 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:31:19,712 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:31:25,616 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:31:25,616 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:31:33,193 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:31:33,194 - lightrag - INFO -   Chunk 1/1: extracted 7 entities and 6 relationships (deduplicated)
+2025-03-09 18:31:33,195 - lightrag - INFO - Extracted 7 entities and 6 relationships (deduplicated)
+2025-03-09 18:31:33,195 - lightrag - INFO - Inserting 7 to entities
+2025-03-09 18:31:34,707 - lightrag - INFO - Inserting 6 to relationships
+2025-03-09 18:31:35,557 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:31:35,559 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:31:35,560 - lightrag - INFO - Inserting 1 to chunks
+2025-03-09 18:31:35,560 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-09 18:31:35,560 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-09 18:31:35,582 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:31:40,976 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:31:40,976 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-09 18:31:43,229 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:31:43,229 - lightrag - INFO -   Chunk 1/1: extracted 5 entities and 2 relationships (deduplicated)
+2025-03-09 18:31:43,230 - lightrag - INFO - Extracted 5 entities and 2 relationships (deduplicated)
+2025-03-09 18:31:43,230 - lightrag - INFO - Inserting 5 to entities
+2025-03-09 18:31:44,046 - lightrag - INFO - Inserting 2 to relationships
+2025-03-09 18:31:45,035 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-09 18:31:45,036 - lightrag - INFO - Completed batch 1 of 1.
+2025-03-09 18:31:45,047 - lightrag - INFO - Writing graph with 93 nodes, 45 edges
+2025-03-09 18:31:45,051 - lightrag - INFO - All Insert done
+2025-03-09 18:36:42,135 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-09 18:36:42,135 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-09 18:36:43,782 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 18:36:43,782 - lightrag - INFO - Query nodes: Entreprises, Formation professionnelle, Technologie IA, Rennes, top_k: 60, cosine: 0.2
+2025-03-09 18:36:43,803 - lightrag - INFO - Query edges: Formation, Intelligence artificielle, Rennes, top_k: 60, cosine: 0.2
+2025-03-09 18:36:44,562 - lightrag - INFO - Global query uses 41 entites, 44 relations, 14 chunks
+2025-03-09 18:36:44,604 - lightrag - INFO - Local query uses 60 entites, 45 relations, 14 chunks
+2025-03-09 19:04:52,157 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-09 19:04:59,272 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:05:00,056 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:21:11,539 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-09 19:24:02,513 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:24:02,521 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:24:35,665 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-09 19:24:35,666 - lightrag - INFO - No new unique documents were found.
+2025-03-09 19:24:35,666 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-09 19:27:07,917 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-09 19:27:14,977 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:27:14,985 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:27:33,824 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-09 19:27:43,642 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:27:43,652 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:28:24,410 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:28:34,469 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:28:41,381 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:28:47,961 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:28:54,427 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:28:54,683 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:29:39,630 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:29:39,638 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:29:48,463 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:29:54,995 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:01,473 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:08,736 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:14,939 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:21,390 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:27,755 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:34,081 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:40,781 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:47,387 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:30:47,394 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:31:06,841 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:31:06,849 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:32:22,326 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:32:30,062 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:32:36,861 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:32:43,474 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:32:49,803 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:32:49,811 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:33:28,011 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:33:34,580 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:33:41,370 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:33:47,870 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:33:54,578 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:34:42,371 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:34:48,787 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:34:48,794 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:34:56,106 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:35:03,036 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:35:03,044 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:35:24,931 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:35:24,942 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:36:10,947 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:36:10,955 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:36:21,674 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:36:21,682 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:42:29,528 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:42:29,813 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:43:19,110 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:43:26,510 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:43:26,837 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:44:39,299 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:44:46,953 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:44:54,391 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:44:54,666 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:45:51,105 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:45:51,529 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:45:58,895 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:46:05,745 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:46:06,085 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:47:05,715 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:47:12,954 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:47:20,143 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:47:20,429 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:47:58,266 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:48:05,462 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:48:12,027 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:48:54,171 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:48:54,548 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:49:04,833 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:49:05,187 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:49:37,542 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:49:44,982 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:49:44,986 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:49:45,413 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-09 19:49:53,062 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:50:00,799 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:50:00,808 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:51:23,293 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:51:23,301 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:55:17,754 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:55:24,644 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:55:31,407 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:55:38,030 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:55:39,322 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:56:34,416 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:56:34,424 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:56:44,375 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:56:51,398 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:56:59,034 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:57:05,719 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:57:34,176 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:57:40,741 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:57:46,919 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:57:46,926 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:59:35,628 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:59:37,351 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 19:59:49,647 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:59:56,497 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 19:59:57,802 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:01:08,539 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:01:15,195 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:01:22,047 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:01:23,328 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:03:08,882 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:03:15,499 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:03:22,073 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:03:23,317 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:03:48,067 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:03:54,619 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:04:00,968 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:04:07,688 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:04:22,539 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:04:22,546 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:04:41,951 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:04:48,037 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:04:48,044 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:05:08,879 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:05:15,859 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:05:22,489 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:05:29,358 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:05:36,113 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:05:42,445 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:05:48,910 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:06:17,321 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:06:17,328 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:06:27,459 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:06:34,109 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:06:40,908 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:06:47,134 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:06:47,142 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:07:03,276 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:07:03,285 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:07:23,049 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:07:23,059 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:07:52,647 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:07:52,656 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:08:06,038 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:08:13,102 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:08:21,735 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:08:21,744 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:09:48,869 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:09:48,879 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:09:56,427 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:09:56,436 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:10:05,422 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:10:12,684 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:10:19,892 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:10:27,081 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:10:34,434 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:10:42,172 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:10:49,291 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:10:56,552 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:11:29,874 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:11:37,821 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:11:45,065 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:11:49,767 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:12:03,795 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:12:10,959 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:12:16,087 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:12:48,688 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:12:55,665 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:13:02,917 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:13:08,019 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:14:05,658 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:14:12,569 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:14:12,578 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:14:52,332 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:15:00,341 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:15:05,250 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:15:36,562 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:15:44,347 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:15:51,637 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:15:59,156 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:15:59,164 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:18:32,838 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:18:32,856 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:18:56,571 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:19:03,443 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:19:10,604 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:19:17,483 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:19:17,491 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:19:25,053 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:19:25,062 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:19:32,503 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:19:32,511 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:21:22,462 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:21:22,470 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:21:41,275 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:21:41,283 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:21:53,987 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:22:01,045 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:22:08,054 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:22:15,035 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:22:22,039 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:22:22,047 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:22:44,765 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:23:33,042 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:23:40,280 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:23:47,702 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:23:55,066 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:23:55,076 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:25:21,461 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:25:21,470 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:26:54,666 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:27:01,867 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:27:09,353 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:27:16,817 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:27:16,826 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:27:41,504 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:27:49,048 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:27:56,146 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:27:56,154 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:28:20,668 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:28:20,676 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:28:29,460 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:28:36,687 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:28:43,767 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:28:55,525 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:28:55,533 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:43:12,832 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:43:42,811 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:44:10,144 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:44:16,815 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:44:23,956 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:44:55,558 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:44:55,566 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:45:37,839 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:45:44,623 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:45:51,824 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:45:58,955 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:46:06,087 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:46:13,300 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:46:20,555 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:46:34,111 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:47:13,551 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:47:20,608 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:47:22,238 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:48:35,840 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:48:35,848 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:49:27,299 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:49:34,432 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:49:41,964 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:49:49,648 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:49:56,887 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:50:02,906 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:51:02,705 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:51:02,713 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:51:26,630 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:51:33,898 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:51:41,044 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:51:46,945 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:52:46,780 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:52:58,441 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:52:58,450 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:53:35,553 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:53:43,022 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:53:50,535 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:53:57,935 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:54:05,485 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:54:13,022 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:54:20,238 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:54:24,846 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:55:06,006 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:55:06,016 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:55:39,134 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:55:47,176 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:55:56,570 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:56:03,254 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:56:54,480 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:57:01,778 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:57:01,787 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:57:13,434 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:57:18,927 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:57:36,734 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-09 20:57:36,734 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-09 20:57:38,684 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-09 20:57:38,684 - lightrag - INFO - Query nodes: Intelligence artificielle, Rennes, Entreprises locales, Cours d'IA, Formation professionnelle, top_k: 60, cosine: 0.2
+2025-03-09 20:57:38,709 - lightrag - INFO - Query edges: Formation en IA, Entreprises à Rennes, top_k: 60, cosine: 0.2
+2025-03-09 20:57:39,800 - lightrag - INFO - Local query uses 60 entites, 43 relations, 14 chunks
+2025-03-09 20:57:39,844 - lightrag - INFO - Global query uses 41 entites, 44 relations, 14 chunks
+2025-03-09 20:58:21,902 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:58:21,911 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 20:58:27,241 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-09 20:58:27,241 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-09 20:58:27,265 - lightrag - INFO - Query nodes: Intelligence artificielle, Rennes, Entreprises locales, Cours d'IA, Formation professionnelle, top_k: 60, cosine: 0.2
+2025-03-09 20:58:27,284 - lightrag - INFO - Query edges: Formation en IA, Entreprises à Rennes, top_k: 60, cosine: 0.2
+2025-03-09 20:58:28,661 - lightrag - INFO - Global query uses 41 entites, 44 relations, 14 chunks
+2025-03-09 20:58:28,670 - lightrag - INFO - Local query uses 60 entites, 43 relations, 14 chunks
+2025-03-09 20:59:20,177 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 20:59:20,186 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 21:00:28,356 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:00:36,007 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:00:44,679 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:00:52,871 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:01:00,610 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:01:08,303 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:05:08,606 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:05:15,598 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:05:22,599 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 21:05:59,673 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:06:06,848 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:06:14,053 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:06:14,063 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-09 21:06:14,063 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 21:06:14,063 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-09 21:06:14,089 - lightrag - INFO - Query nodes: Intelligence artificielle, Rennes, Entreprises locales, Cours d'IA, Formation professionnelle, top_k: 60, cosine: 0.2
+2025-03-09 21:06:14,114 - lightrag - INFO - Query edges: Formation en IA, Entreprises à Rennes, top_k: 60, cosine: 0.2
+2025-03-09 21:06:15,039 - lightrag - INFO - Local query uses 60 entites, 43 relations, 14 chunks
+2025-03-09 21:06:16,889 - lightrag - INFO - Global query uses 41 entites, 44 relations, 14 chunks
+2025-03-09 21:06:38,559 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:06:45,364 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:06:45,373 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 21:07:45,357 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:07:52,834 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 21:09:29,164 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:09:36,313 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:09:43,538 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:09:50,558 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:09:50,566 - lightrag - INFO - Storage Initialization completed!
+2025-03-09 21:11:38,159 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-09 21:11:38,168 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 11:05:54,436 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 11:05:54,445 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 14:57:29,711 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 14:57:29,722 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 14:59:22,056 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 14:59:28,425 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 14:59:35,087 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 14:59:35,097 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:07:00,264 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:07:00,276 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:11:04,433 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:11:04,444 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:13:04,047 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:13:10,871 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:13:19,156 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:13:19,166 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:18:31,083 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:18:38,999 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:18:47,230 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:18:55,172 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:19:02,823 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:19:02,834 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:19:38,538 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:19:45,400 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:19:52,321 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:19:59,148 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:20:05,912 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:20:05,922 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:28:41,477 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:28:41,487 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:29:47,801 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:29:47,811 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:30:25,705 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:30:33,397 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:30:50,054 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:30:50,063 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:31:48,221 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:31:56,011 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:32:03,581 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:32:03,594 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:34:45,761 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:34:45,771 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:35:33,954 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:35:42,453 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:35:49,873 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:35:56,968 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:35:56,980 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:43:13,187 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:43:13,224 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:44:54,124 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:45:02,148 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:45:02,157 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:45:37,512 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:45:37,521 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:45:52,851 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:45:59,813 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:46:06,482 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:46:06,492 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:47:34,031 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:47:41,034 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:47:49,462 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:47:56,211 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:48:04,552 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:48:11,491 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:48:20,055 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:48:20,089 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:49:05,057 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:49:05,091 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:49:39,777 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:49:39,809 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:50:01,454 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:50:08,297 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:50:15,353 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:50:22,108 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:50:29,221 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:50:29,231 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:52:13,439 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:52:22,329 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:52:35,290 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:52:43,616 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:52:43,625 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:53:08,113 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:53:15,796 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:53:15,806 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:53:29,586 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-10 15:53:29,595 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:53:53,460 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:53:53,470 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:55:13,067 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:55:13,078 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:55:50,803 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:55:57,680 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:55:57,689 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:57:00,711 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:57:00,723 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:57:35,937 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:57:35,947 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 15:59:14,747 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:59:21,427 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:59:28,067 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 15:59:28,076 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:00:21,439 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:00:21,448 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:02:20,444 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:02:20,453 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:03:24,608 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:03:32,949 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:03:40,875 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:03:49,833 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:03:49,844 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:05:57,233 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:06:09,366 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:06:16,142 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:06:22,857 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:06:29,837 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:06:29,847 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:06:47,173 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:06:58,649 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:06:58,658 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:11:07,355 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:11:14,030 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:11:14,038 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:11:32,620 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:11:32,630 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:12:52,330 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:13:01,356 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:13:07,961 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:13:16,867 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:13:26,194 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:13:26,205 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:13:58,996 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:14:05,810 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:14:05,819 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:14:15,418 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:14:22,019 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:14:30,888 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:14:30,899 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:14:52,178 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:14:52,195 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:15:03,699 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-10 16:15:03,709 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:15:29,975 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-10 16:15:29,975 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-10 16:15:29,975 - lightrag - INFO - Stored 1 new unique documents
+2025-03-10 16:15:29,976 - lightrag - INFO - Number of batches to process: 1.
+2025-03-10 16:15:29,976 - lightrag - INFO - Start processing batch 1 of 1.
+2025-03-10 16:15:32,547 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-10 16:15:32,547 - lightrag - INFO - Inserting 5 to chunks
+2025-03-10 16:15:32,548 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-10 16:15:32,548 - lightrag - INFO - Inserting 5 to text_chunks
+2025-03-10 16:15:32,575 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:32,601 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:32,625 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:32,648 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:32,672 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:46,304 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:15:46,304 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:47,940 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:15:47,940 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:52,854 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:15:52,855 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:54,100 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:15:54,101 - lightrag - INFO -   Chunk 1/5: extracted 9 entities and 2 relationships (deduplicated)
+2025-03-10 16:15:56,804 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:15:56,805 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:56,897 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:15:56,898 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:15:57,479 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:15:57,480 - lightrag - INFO -   Chunk 2/5: extracted 11 entities and 3 relationships (deduplicated)
+2025-03-10 16:16:05,151 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:16:05,152 - lightrag - INFO -   Chunk 3/5: extracted 16 entities and 4 relationships (deduplicated)
+2025-03-10 16:16:07,600 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:16:07,600 - lightrag - INFO -   Chunk 4/5: extracted 19 entities and 7 relationships (deduplicated)
+2025-03-10 16:16:09,854 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:16:09,854 - lightrag - INFO -   Chunk 5/5: extracted 16 entities and 7 relationships (deduplicated)
+2025-03-10 16:16:09,857 - lightrag - INFO - Extracted 59 entities and 23 relationships (deduplicated)
+2025-03-10 16:16:09,858 - lightrag - INFO - Inserting 59 to entities
+2025-03-10 16:16:11,411 - lightrag - INFO - Inserting 23 to relationships
+2025-03-10 16:16:14,376 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-10 16:16:14,376 - lightrag - INFO - Completed batch 1 of 1.
+2025-03-10 16:16:14,382 - lightrag - INFO - Writing graph with 59 nodes, 23 edges
+2025-03-10 16:16:14,384 - lightrag - INFO - All Insert done
+2025-03-10 16:16:38,646 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-10 16:16:38,647 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-10 16:16:40,062 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:16:40,062 - lightrag - INFO - Query nodes: Reception, Overview, Introduction, Features, top_k: 60, cosine: 0.2
+2025-03-10 16:16:40,084 - lightrag - INFO - Query edges: GenRAG, Presentation, top_k: 60, cosine: 0.2
+2025-03-10 16:16:40,798 - lightrag - INFO - Global query uses 24 entites, 21 relations, 3 chunks
+2025-03-10 16:16:41,146 - lightrag - INFO - Local query uses 34 entites, 17 relations, 3 chunks
+2025-03-10 16:31:07,910 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-10 16:31:07,911 - lightrag - INFO - Stored 1 new unique documents
+2025-03-10 16:31:07,911 - lightrag - INFO - Number of batches to process: 1.
+2025-03-10 16:31:07,911 - lightrag - INFO - Start processing batch 1 of 1.
+2025-03-10 16:31:07,912 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-10 16:31:07,912 - lightrag - INFO - Inserting 1 to chunks
+2025-03-10 16:31:07,913 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-10 16:31:07,913 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-10 16:31:07,935 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:31:21,558 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:31:21,558 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-10 16:31:30,572 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-10 16:31:30,573 - lightrag - INFO -   Chunk 1/1: extracted 13 entities and 7 relationships (deduplicated)
+2025-03-10 16:31:30,574 - lightrag - INFO - Extracted 13 entities and 7 relationships (deduplicated)
+2025-03-10 16:31:30,574 - lightrag - INFO - Inserting 13 to entities
+2025-03-10 16:31:32,062 - lightrag - INFO - Inserting 7 to relationships
+2025-03-10 16:31:33,951 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-10 16:31:33,951 - lightrag - INFO - Completed batch 1 of 1.
+2025-03-10 16:31:33,959 - lightrag - INFO - Writing graph with 64 nodes, 26 edges
+2025-03-10 16:31:33,963 - lightrag - INFO - All Insert done
+2025-03-10 16:32:25,921 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:32:33,332 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:32:40,645 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:32:47,935 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:32:56,136 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:33:04,536 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:33:13,203 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:33:13,211 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:33:53,294 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:33:53,302 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:37:59,518 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:38:06,776 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:38:13,822 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:38:21,399 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:38:28,696 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:38:28,709 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:39:47,577 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:39:56,045 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:40:03,549 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:40:12,390 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:40:19,492 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:40:19,500 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:41:47,246 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:41:47,254 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:52:55,652 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:53:03,343 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:53:11,793 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:53:20,229 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:53:20,238 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 16:55:11,129 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 16:55:11,136 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 17:00:16,171 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 17:00:16,182 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 17:00:44,760 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 17:00:44,770 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 17:01:25,532 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 17:01:25,541 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 17:01:40,942 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 17:01:50,312 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 17:01:59,148 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 17:02:07,599 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 17:02:07,608 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 17:05:25,602 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-10 17:05:25,610 - lightrag - INFO - Storage Initialization completed!
+2025-03-10 17:07:15,662 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-10 17:07:15,662 - lightrag - INFO - No new unique documents were found.
+2025-03-10 17:07:15,663 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-11 09:18:01,473 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:18:01,480 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:26:11,991 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:26:11,999 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:26:20,994 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:26:21,001 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:26:33,822 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:26:41,569 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:26:49,648 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:26:56,321 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:26:56,328 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:27:14,840 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:27:14,847 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:27:24,080 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:27:31,129 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:29:54,268 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:29:54,276 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:37:36,699 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:37:56,451 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:38:03,054 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:38:03,061 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:49:23,563 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:49:23,571 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:50:06,793 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:50:06,801 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:50:54,821 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:51:03,454 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:51:03,462 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:51:17,515 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:51:17,522 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:51:26,684 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:51:26,692 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:52:35,646 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:52:35,653 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:54:26,658 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:54:33,436 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:54:40,410 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:54:47,117 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:54:56,048 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:03,437 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:10,746 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:10,755 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:55:23,141 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:31,886 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:38,941 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:41,092 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:41,092 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 09:55:41,092 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 09:55:41,092 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 09:55:41,092 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 09:55:47,169 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:53,908 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 09:55:53,915 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:18:55,162 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:18:55,162 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:18:55,163 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:18:55,163 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 10:18:55,163 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 10:19:56,363 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:20:03,817 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:20:10,687 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:20:17,145 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:20:17,153 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:21:43,754 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:21:50,135 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:21:50,135 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:21:50,135 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:21:50,136 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 10:21:50,136 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 10:21:50,900 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:21:57,812 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:21:57,820 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:22:07,017 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:22:12,704 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:22:12,704 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:22:12,705 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:22:12,705 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 10:22:12,705 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 10:22:14,088 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:22:21,643 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:22:21,650 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:22:57,914 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:22:57,914 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:22:57,915 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:22:57,915 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 10:22:57,915 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 10:22:58,960 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:22:58,968 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:23:14,991 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:23:14,999 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:23:33,884 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:23:33,885 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:23:33,885 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:23:33,885 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 10:23:33,885 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 10:23:34,830 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:23:34,837 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:23:35,717 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 10:23:35,717 - lightrag - INFO - Query nodes: Understanding, Information, top_k: 60, cosine: 0.2
+2025-03-11 10:23:35,739 - lightrag - INFO - Query edges: Knowledge explanation, General inquiry, top_k: 60, cosine: 0.2
+2025-03-11 10:23:37,018 - lightrag - INFO - Global query uses 14 entites, 14 relations, 4 chunks
+2025-03-11 10:23:37,063 - lightrag - INFO - Local query uses 31 entites, 19 relations, 3 chunks
+2025-03-11 10:24:27,798 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:24:34,437 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:24:34,444 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:24:43,355 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:24:43,363 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:28:31,075 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:28:31,075 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:28:31,364 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:28:41,945 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:28:41,945 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:28:41,946 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:28:41,946 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 10:28:41,946 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:keywords)
+2025-03-11 10:28:41,946 - lightrag - INFO - Query nodes: Understanding, Information, top_k: 60, cosine: 0.2
+2025-03-11 10:28:41,984 - lightrag - INFO - Query edges: Knowledge explanation, General inquiry, top_k: 60, cosine: 0.2
+2025-03-11 10:28:42,981 - lightrag - INFO - Local query uses 31 entites, 19 relations, 3 chunks
+2025-03-11 10:28:43,463 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:28:44,236 - lightrag - INFO - Global query uses 14 entites, 14 relations, 4 chunks
+2025-03-11 10:28:51,525 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:28:51,535 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:29:55,811 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:30:02,699 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:30:09,588 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:30:16,798 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:30:25,152 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:30:25,163 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:30:32,117 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 10:30:32,117 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-11 10:30:37,058 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 10:30:37,058 - lightrag - INFO - Query nodes: Generative AI, Retrieval-Augmented Generation, Technology, Applications, top_k: 60, cosine: 0.2
+2025-03-11 10:30:37,080 - lightrag - INFO - Query edges: GenRAG, Explanation, Artificial intelligence, top_k: 60, cosine: 0.2
+2025-03-11 10:30:37,694 - lightrag - INFO - Local query uses 48 entites, 20 relations, 4 chunks
+2025-03-11 10:30:38,705 - lightrag - INFO - Global query uses 23 entites, 22 relations, 4 chunks
+2025-03-11 10:31:11,296 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 10:31:11,296 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 10:31:11,320 - lightrag - INFO - Query nodes: Generative AI, Retrieval-Augmented Generation, Technology, Applications, top_k: 60, cosine: 0.2
+2025-03-11 10:31:11,343 - lightrag - INFO - Query edges: GenRAG, Explanation, Artificial intelligence, top_k: 60, cosine: 0.2
+2025-03-11 10:31:11,790 - lightrag - INFO - Local query uses 48 entites, 20 relations, 4 chunks
+2025-03-11 10:31:12,676 - lightrag - INFO - Global query uses 23 entites, 22 relations, 4 chunks
+2025-03-11 10:34:23,840 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 10:34:23,841 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 10:34:23,869 - lightrag - INFO - Query nodes: Generative AI, Retrieval-Augmented Generation, Technology, Applications, top_k: 60, cosine: 0.2
+2025-03-11 10:34:23,893 - lightrag - INFO - Query edges: GenRAG, Explanation, Artificial intelligence, top_k: 60, cosine: 0.2
+2025-03-11 10:34:24,815 - lightrag - INFO - Global query uses 23 entites, 22 relations, 4 chunks
+2025-03-11 10:34:25,449 - lightrag - INFO - Local query uses 48 entites, 20 relations, 4 chunks
+2025-03-11 10:34:45,202 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 10:34:45,202 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 10:34:45,225 - lightrag - INFO - Query nodes: Generative AI, Retrieval-Augmented Generation, Technology, Applications, top_k: 60, cosine: 0.2
+2025-03-11 10:34:45,248 - lightrag - INFO - Query edges: GenRAG, Explanation, Artificial intelligence, top_k: 60, cosine: 0.2
+2025-03-11 10:34:45,716 - lightrag - INFO - Local query uses 48 entites, 20 relations, 4 chunks
+2025-03-11 10:34:54,037 - lightrag - INFO - Global query uses 23 entites, 22 relations, 4 chunks
+2025-03-11 10:35:32,203 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:35:41,232 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:35:41,242 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 10:35:41,242 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:35:41,242 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 10:35:41,266 - lightrag - INFO - Query nodes: Generative AI, Retrieval-Augmented Generation, Technology, Applications, top_k: 60, cosine: 0.2
+2025-03-11 10:35:41,288 - lightrag - INFO - Query edges: GenRAG, Explanation, Artificial intelligence, top_k: 60, cosine: 0.2
+2025-03-11 10:35:42,131 - lightrag - INFO - Global query uses 23 entites, 22 relations, 4 chunks
+2025-03-11 10:35:42,139 - lightrag - INFO - Local query uses 48 entites, 20 relations, 4 chunks
+2025-03-11 10:36:45,394 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:36:52,520 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:36:59,410 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:37:07,920 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:37:07,929 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 10:37:07,930 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:37:07,930 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 10:37:07,953 - lightrag - INFO - Query nodes: Generative AI, Retrieval-Augmented Generation, Technology, Applications, top_k: 60, cosine: 0.2
+2025-03-11 10:37:07,976 - lightrag - INFO - Query edges: GenRAG, Explanation, Artificial intelligence, top_k: 60, cosine: 0.2
+2025-03-11 10:37:08,952 - lightrag - INFO - Global query uses 23 entites, 22 relations, 4 chunks
+2025-03-11 10:37:08,962 - lightrag - INFO - Local query uses 48 entites, 20 relations, 4 chunks
+2025-03-11 10:39:16,757 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 10:39:16,758 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 10:39:16,782 - lightrag - INFO - Query nodes: Generative AI, Retrieval-Augmented Generation, Technology, Applications, top_k: 60, cosine: 0.2
+2025-03-11 10:39:16,807 - lightrag - INFO - Query edges: GenRAG, Explanation, Artificial intelligence, top_k: 60, cosine: 0.2
+2025-03-11 10:39:17,482 - lightrag - INFO - Global query uses 23 entites, 22 relations, 4 chunks
+2025-03-11 10:39:17,890 - lightrag - INFO - Local query uses 48 entites, 20 relations, 4 chunks
+2025-03-11 10:46:41,653 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:46:50,068 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:46:59,318 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:46:59,328 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 10:46:59,328 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:46:59,329 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 10:46:59,353 - lightrag - INFO - Query nodes: Generative AI, Retrieval-Augmented Generation, Technology, Applications, top_k: 60, cosine: 0.2
+2025-03-11 10:46:59,373 - lightrag - INFO - Query edges: GenRAG, Explanation, Artificial intelligence, top_k: 60, cosine: 0.2
+2025-03-11 10:47:00,486 - lightrag - INFO - Global query uses 23 entites, 22 relations, 4 chunks
+2025-03-11 10:47:00,554 - lightrag - INFO - Local query uses 48 entites, 20 relations, 4 chunks
+2025-03-11 10:49:15,174 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:49:24,776 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:49:31,971 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:49:40,567 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:49:47,424 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:49:54,369 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:50:01,399 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:50:01,409 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:50:10,180 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:50:17,111 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:50:17,115 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:50:17,288 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:50:25,107 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:50:25,112 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:50:25,279 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:50:32,878 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:50:40,311 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:50:40,322 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:52:04,264 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:52:04,269 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:52:04,414 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:52:13,801 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:52:13,811 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:54:19,027 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:54:19,037 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:55:09,933 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:55:09,941 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:56:09,725 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:56:19,106 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:56:27,512 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:56:27,521 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:56:38,839 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:56:38,846 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 10:56:39,066 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-11 10:56:47,477 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:57:09,871 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 10:57:09,882 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 11:00:52,535 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:01:00,985 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:01:08,321 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:01:17,331 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:01:17,341 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 11:01:24,760 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:01:37,035 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:01:37,045 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 11:04:48,941 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:04:48,990 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 11:06:35,758 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:06:35,814 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 11:08:06,357 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:08:14,787 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:08:21,381 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:08:28,229 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 11:08:28,237 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 14:42:44,954 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 14:42:44,962 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 14:43:23,311 - lightrag - INFO - Logger initialized for working directory: workspace
+2025-03-11 14:43:23,312 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-11 14:43:23,312 - lightrag - INFO - Load KV full_docs with 2 data
+2025-03-11 14:43:23,312 - lightrag - INFO - Load KV text_chunks with 6 data
+2025-03-11 14:43:23,314 - lightrag - INFO - Loaded graph from workspace/graph_chunk_entity_relation.graphml with 64 nodes, 26 edges
+2025-03-11 14:43:23,316 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 14:43:23,328 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 14:43:23,328 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 14:43:23,638 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 14:43:39,874 - lightrag - ERROR - OpenAI API Connection Error: Request timed out.
+2025-03-11 14:46:57,701 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 14:46:57,711 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 14:47:20,647 - lightrag - INFO - Logger initialized for working directory: workspace
+2025-03-11 14:47:20,648 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-11 14:47:20,648 - lightrag - INFO - Load KV full_docs with 2 data
+2025-03-11 14:47:20,648 - lightrag - INFO - Load KV text_chunks with 6 data
+2025-03-11 14:47:20,650 - lightrag - INFO - Loaded graph from workspace/graph_chunk_entity_relation.graphml with 64 nodes, 26 edges
+2025-03-11 14:47:20,652 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 14:47:20,657 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 14:47:20,657 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 14:47:23,179 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 14:47:24,373 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 14:47:24,373 - lightrag - INFO - Query nodes: Rag, Explication, Signification, top_k: 60, cosine: 0.2
+2025-03-11 14:47:24,394 - lightrag - INFO - Query edges: Définition, Concept, top_k: 60, cosine: 0.2
+2025-03-11 14:47:25,061 - lightrag - INFO - Global query uses 13 entites, 12 relations, 4 chunks
+2025-03-11 14:47:25,170 - lightrag - INFO - Local query uses 24 entites, 17 relations, 4 chunks
+2025-03-11 14:47:26,420 - lightrag - INFO - Storage Finalization completed!
+2025-03-11 14:48:36,574 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 14:48:36,582 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 14:54:08,247 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 14:54:08,255 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 14:54:12,068 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 14:54:12,068 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-11 14:54:13,310 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 14:54:13,310 - lightrag - INFO - Query edges: Rag, Définition, top_k: 60, cosine: 0.2
+2025-03-11 14:54:14,176 - lightrag - INFO - Global query uses 15 entites, 17 relations, 4 chunks

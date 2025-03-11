@@ -1,18 +1,16 @@
+from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from routers import document_loader
-from routers import chatbot
-from routers.utils.document_loader_utils import *
-from pinecone import Pinecone, ServerlessSpec
 import os
+from langchain_pinecone import PineconeEmbeddings, PineconeVectorStore
+from pinecone import Pinecone, ServerlessSpec
 import time
-from contextlib import asynccontextmanager
+from router_VectorRAG.router_Vector_RAG import router_Vector_RAG
+from router_LightRAG.router_Light_RAG import router_Light_RAG
 
 app = FastAPI()
 
-origins = [
-    "*"
-]
+origins = ["*"] #TODO : change this to the frontend URL
 
 app.add_middleware(
     CORSMiddleware,
@@ -20,25 +18,14 @@ app.add_middleware(
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
-)
+) #TODO : update it in the final version
 
-pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY"))
+@app.get("/")
+async def welcome():
+    return {"Welcome to the POC-N-RAG API"}
 
-cloud = os.environ.get('PINECONE_CLOUD') or 'aws'
-region = os.environ.get('PINECONE_REGION') or 'us-east-1'
-spec = ServerlessSpec(cloud=cloud, region=region)
-
-if index_name not in pc.list_indexes().names():
-    pc.create_index(
-        name=index_name,
-        dimension=embeddings.dimension,
-        metric="cosine",
-        spec=spec
-    )
-    # Wait for index to be ready
-    while not pc.describe_index(index_name).status['ready']:
-        time.sleep(1)
-
-
-app.include_router(document_loader.router, prefix="/documents", tags=["documents"])
-app.include_router(chatbot.router, prefix="/chatbot", tags=["chatbot"])
+# Include routers to enable each part to be splited into multiples dedicated routers
+# app.include_router(None, prefix="/LightRAG", tags=["LightRAG"])
+app.include_router(router_Vector_RAG, prefix="/VectorRAG", tags=["VectorRag"])
+app.include_router(router_Light_RAG, prefix="/LightRAG", tags=["LightRag"])
+# app.include_router(None, prefix="/documents", tags=["documents"])

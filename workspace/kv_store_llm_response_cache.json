@@ -1,0 +1,13 @@
+{
+  "hybrid": {
+    "4c8eb3799cceb4c7a05992cf8f472d99": {
+      "return": "{\"high_level_keywords\": [\"Themes\", \"Knowledge scope\"], \"low_level_keywords\": [\"Top themes\", \"Categories\", \"Subjects\", \"Topics\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the top themes you know ?"
+    }
+  }
+}
