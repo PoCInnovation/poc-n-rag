@@ -10,3 +10,8 @@
 2025-03-11 14:53:15,143 - lightrag - INFO - Inserting 1 to llm_response_cache
 2025-03-11 14:53:15,143 - lightrag - INFO - Query nodes: Top themes, Categories, Subjects, Topics, top_k: 60, cosine: 0.2
 2025-03-11 14:53:15,162 - lightrag - INFO - Query edges: Themes, Knowledge scope, top_k: 60, cosine: 0.2
+2025-03-11 15:13:39,267 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-11 15:13:39,268 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 15:13:39,268 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:keywords)
+2025-03-11 15:13:39,268 - lightrag - INFO - Query nodes: Top themes, Categories, Subjects, Topics, top_k: 60, cosine: 0.2
+2025-03-11 15:13:39,306 - lightrag - INFO - Query edges: Themes, Knowledge scope, top_k: 60, cosine: 0.2

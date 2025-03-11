@@ -10,15 +10,13 @@ from pdfminer.high_level import extract_text
 
 from lightrag.utils import EmbeddingFunc, always_get_an_event_loop
 import inspect
-
+import asyncio
 
 rag = LightRAG(
     working_dir="workspace",
     embedding_func=openai_embed,
     llm_model_func=gpt_4o_complete,
-        addon_params={
-        "insert_batch_size": 20
-    }
+    llm_model_max_async=8
 )
 
 router_Light_RAG = APIRouter()
@@ -64,34 +62,9 @@ async def query(query: str):
 async def print_stream(stream):
     async for chunk in stream:
         if chunk:
-            print(chunk, end="", flush=True)
+            yield chunk
 
 @router_Light_RAG.get("/stream/query")
 async def stream_query(query: str):
-    rag = LightRAG(
-        working_dir="workspace",
-        embedding_func=openai_embed,
-        llm_model_func=gpt_4o_complete,
-        llm_model_max_async=4,
-        addon_params={
-            "insert_batch_size": 20
-        }
-    )
-
-    loop = always_get_an_event_loop()
-
-    resp = rag.aquery(
-        query,
-        param=QueryParam(mode="hybrid", stream=True),
-    )
-
-    if inspect.isasyncgen(resp):
-        loop.run_until_complete(print_stream(resp))
-    else:
-        print(resp)
-
-
-    return Response(content="Query completed", media_type="text/markdown")
-    # result = await rag.aquery(query, param=QueryParam(mode="mix"))
-    # return Response(content=result, media_type="text/markdown")
-
+    stream = await rag.aquery(query, param=QueryParam(mode="mix", stream=True))
+    return StreamingResponse(print_stream(stream), media_type="text/event-stream")

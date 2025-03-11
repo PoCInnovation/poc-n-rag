@@ -1069,3 +1069,401 @@
 2025-03-11 14:54:13,310 - lightrag - INFO - Inserting 1 to llm_response_cache
 2025-03-11 14:54:13,310 - lightrag - INFO - Query edges: Rag, Définition, top_k: 60, cosine: 0.2
 2025-03-11 14:54:14,176 - lightrag - INFO - Global query uses 15 entites, 17 relations, 4 chunks
+2025-03-11 15:08:02,685 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:08:02,698 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:08:04,733 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:08:04,733 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:08:04,733 - lightrag - INFO - Query edges: Rag, Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:08:05,780 - lightrag - INFO - Global query uses 15 entites, 17 relations, 4 chunks
+2025-03-11 15:08:36,330 - lightrag - INFO - Logger initialized for working directory: workspace
+2025-03-11 15:08:36,331 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-11 15:08:36,331 - lightrag - INFO - Load KV full_docs with 2 data
+2025-03-11 15:08:36,332 - lightrag - INFO - Load KV text_chunks with 6 data
+2025-03-11 15:08:36,333 - lightrag - INFO - Loaded graph from workspace/graph_chunk_entity_relation.graphml with 64 nodes, 26 edges
+2025-03-11 15:08:36,337 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:08:36,345 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:08:36,345 - lightrag - INFO - Storage Finalization completed!
+2025-03-11 15:08:51,669 - lightrag - INFO - Logger initialized for working directory: workspace
+2025-03-11 15:08:51,670 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-11 15:08:51,670 - lightrag - INFO - Load KV full_docs with 2 data
+2025-03-11 15:08:51,670 - lightrag - INFO - Load KV text_chunks with 6 data
+2025-03-11 15:08:51,672 - lightrag - INFO - Loaded graph from workspace/graph_chunk_entity_relation.graphml with 64 nodes, 26 edges
+2025-03-11 15:08:51,675 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:08:51,675 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:08:51,675 - lightrag - INFO - Storage Finalization completed!
+2025-03-11 15:08:52,528 - lightrag - INFO - Logger initialized for working directory: workspace
+2025-03-11 15:08:52,529 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-11 15:08:52,529 - lightrag - INFO - Load KV full_docs with 2 data
+2025-03-11 15:08:52,530 - lightrag - INFO - Load KV text_chunks with 6 data
+2025-03-11 15:08:52,531 - lightrag - INFO - Loaded graph from workspace/graph_chunk_entity_relation.graphml with 64 nodes, 26 edges
+2025-03-11 15:08:52,533 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:08:52,533 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:08:52,533 - lightrag - INFO - Storage Finalization completed!
+2025-03-11 15:09:15,504 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:09:24,489 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:09:32,753 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:09:32,761 - lightrag - INFO - Logger initialized for working directory: workspace
+2025-03-11 15:09:32,763 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-11 15:09:32,763 - lightrag - INFO - Load KV full_docs with 2 data
+2025-03-11 15:09:32,763 - lightrag - INFO - Load KV text_chunks with 6 data
+2025-03-11 15:09:32,765 - lightrag - INFO - Loaded graph from workspace/graph_chunk_entity_relation.graphml with 64 nodes, 26 edges
+2025-03-11 15:09:32,770 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:09:32,774 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:09:32,775 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:09:32,775 - lightrag - INFO - Storage Finalization completed!
+2025-03-11 15:10:02,425 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:10:02,432 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:10:23,528 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:10:36,656 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:10:36,656 - lightrag - INFO - Logger initialized for working directory: workspace
+2025-03-11 15:10:36,657 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-11 15:10:36,657 - lightrag - INFO - Load KV full_docs with 2 data
+2025-03-11 15:10:36,658 - lightrag - INFO - Load KV text_chunks with 6 data
+2025-03-11 15:10:36,659 - lightrag - INFO - Loaded graph from workspace/graph_chunk_entity_relation.graphml with 64 nodes, 26 edges
+2025-03-11 15:10:36,662 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:10:46,203 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:10:53,740 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:10:53,752 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:11:03,485 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:11:03,495 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:11:47,959 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:11:57,714 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:12:07,101 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:12:07,112 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:12:21,148 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:12:30,634 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:12:30,647 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:12:30,647 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 15:12:30,647 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:keywords)
+2025-03-11 15:12:30,647 - lightrag - INFO - Query nodes: Rag, Explication, Signification, top_k: 60, cosine: 0.2
+2025-03-11 15:12:30,676 - lightrag - INFO - Query edges: Définition, Concept, top_k: 60, cosine: 0.2
+2025-03-11 15:12:32,307 - lightrag - INFO - Local query uses 24 entites, 17 relations, 4 chunks
+2025-03-11 15:12:32,311 - lightrag - INFO - Global query uses 13 entites, 12 relations, 4 chunks
+2025-03-11 15:12:53,299 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:13:02,783 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:13:10,149 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:13:10,159 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:13:10,160 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 15:13:10,160 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:keywords)
+2025-03-11 15:13:10,160 - lightrag - INFO - Query nodes: Rag, Explication, Signification, top_k: 60, cosine: 0.2
+2025-03-11 15:13:10,184 - lightrag - INFO - Query edges: Définition, Concept, top_k: 60, cosine: 0.2
+2025-03-11 15:13:11,039 - lightrag - INFO - Global query uses 13 entites, 12 relations, 4 chunks
+2025-03-11 15:13:11,095 - lightrag - INFO - Local query uses 24 entites, 17 relations, 4 chunks
+2025-03-11 15:13:17,023 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 15:15:09,124 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:15:09,132 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:15:16,771 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:query)
+2025-03-11 15:15:37,012 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:15:46,373 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:15:54,233 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:15:54,246 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:15:54,247 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:query)
+2025-03-11 15:16:27,904 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:16:27,911 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:16:42,252 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:16:42,252 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-11 15:16:43,240 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 15:16:43,240 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:16:43,264 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:16:43,784 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:16:44,395 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:17:23,559 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:17:32,706 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:17:40,967 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:17:50,041 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:17:58,760 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:18:07,888 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:18:16,706 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:18:16,714 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:18:16,714 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:18:16,714 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:18:16,737 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:18:16,762 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:18:17,337 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:18:21,652 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:19:05,837 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:19:13,160 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:19:20,305 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:19:29,356 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:19:29,366 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:19:29,366 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:19:29,366 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:19:29,389 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:19:29,417 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:19:30,405 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:19:30,410 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:19:53,391 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:19:53,391 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:19:53,419 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:19:53,444 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:19:54,252 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:19:54,301 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:20:33,263 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:20:41,826 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:20:51,374 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:21:01,153 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:21:09,772 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:21:17,011 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:21:17,021 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:21:17,021 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:21:17,021 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:21:17,047 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:21:17,082 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:21:17,564 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:21:17,564 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:21:17,590 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:21:17,617 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:21:18,021 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:21:18,026 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:21:18,830 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:21:18,905 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:21:58,205 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:22:06,940 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:22:15,572 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:22:24,444 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:22:24,452 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:22:24,452 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:22:24,452 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:22:24,477 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:22:24,503 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:22:25,517 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:22:25,534 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:22:50,623 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:22:50,632 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:23:00,733 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:23:19,137 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:23:19,145 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:23:23,414 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:23:23,414 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:23:23,438 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:23:23,458 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:23:24,218 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:23:24,545 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:23:59,700 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:24:08,633 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:24:17,580 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:24:17,587 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:24:17,588 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:24:17,588 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:24:17,612 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:24:17,636 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:24:18,372 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:24:18,376 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:26:11,830 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:26:20,806 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:26:27,672 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:26:35,182 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:26:35,191 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:26:35,191 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:26:35,191 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:26:35,214 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:26:35,237 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:26:36,008 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:26:36,244 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:26:56,732 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:27:03,785 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:27:03,793 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:27:03,793 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:27:03,794 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:27:03,817 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:27:03,845 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:27:05,071 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:27:05,281 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:28:33,572 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:28:33,579 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:28:43,153 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:28:51,773 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:29:01,193 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:29:01,206 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:29:01,206 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 15:29:01,207 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-11 15:29:02,384 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 15:29:02,384 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-03-11 15:29:02,384 - lightrag - INFO - Query edges: RAG, top_k: 60, cosine: 0.2
+2025-03-11 15:29:03,466 - lightrag - INFO - Global query uses 20 entites, 20 relations, 4 chunks
+2025-03-11 15:29:30,109 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:29:38,309 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:29:47,877 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:29:47,888 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:29:47,888 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 15:29:47,888 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:keywords)
+2025-03-11 15:29:47,889 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-03-11 15:29:47,889 - lightrag - INFO - Query edges: RAG, top_k: 60, cosine: 0.2
+2025-03-11 15:29:49,141 - lightrag - INFO - Global query uses 20 entites, 20 relations, 4 chunks
+2025-03-11 15:30:14,242 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:30:21,854 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:30:31,058 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:30:31,071 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:30:31,071 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 15:30:31,071 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:keywords)
+2025-03-11 15:30:31,071 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-03-11 15:30:31,071 - lightrag - INFO - Query edges: RAG, top_k: 60, cosine: 0.2
+2025-03-11 15:30:31,811 - lightrag - INFO - Global query uses 20 entites, 20 relations, 4 chunks
+2025-03-11 15:30:51,908 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:30:59,363 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:30:59,375 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:30:59,375 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 15:30:59,375 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:keywords)
+2025-03-11 15:30:59,375 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-03-11 15:30:59,375 - lightrag - INFO - Query edges: RAG, top_k: 60, cosine: 0.2
+2025-03-11 15:31:00,913 - lightrag - INFO - Global query uses 20 entites, 20 relations, 4 chunks
+2025-03-11 15:31:08,756 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 15:31:22,124 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:31:30,234 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:31:30,246 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:31:30,246 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-11 15:31:30,246 - lightrag - INFO - Non-embedding cached hit(mode:hybrid type:keywords)
+2025-03-11 15:31:30,246 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-03-11 15:31:30,246 - lightrag - INFO - Query edges: RAG, top_k: 60, cosine: 0.2
+2025-03-11 15:31:31,414 - lightrag - INFO - Global query uses 20 entites, 20 relations, 4 chunks
+2025-03-11 15:31:39,116 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 15:32:12,408 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:32:19,693 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:32:26,839 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:32:26,849 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:32:26,849 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:32:26,849 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:32:26,872 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:32:26,896 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:32:27,993 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:32:28,195 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:33:04,036 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:33:12,734 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:33:12,747 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:33:12,747 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:33:12,748 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:33:12,772 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:33:12,801 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:33:13,837 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:33:14,085 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:33:33,884 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:33:33,897 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:33:33,897 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:33:33,897 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:33:33,926 - lightrag - INFO - Query nodes: Rag, Termes, Mots, top_k: 60, cosine: 0.2
+2025-03-11 15:33:33,953 - lightrag - INFO - Query edges: Définition, top_k: 60, cosine: 0.2
+2025-03-11 15:33:34,806 - lightrag - INFO - Local query uses 28 entites, 19 relations, 4 chunks
+2025-03-11 15:33:34,811 - lightrag - INFO - Global query uses 10 entites, 8 relations, 4 chunks
+2025-03-11 15:37:14,960 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:37:14,968 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:37:41,079 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:37:41,079 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-11 15:38:14,545 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 15:38:14,546 - lightrag - INFO - Query nodes: Rag, Cloth, Textile, Cleaning, Material, top_k: 60, cosine: 0.2
+2025-03-11 15:38:14,568 - lightrag - INFO - Query edges: Definition, Usage, top_k: 60, cosine: 0.2
+2025-03-11 15:38:15,573 - lightrag - INFO - Global query uses 11 entites, 10 relations, 4 chunks
+2025-03-11 15:38:15,917 - lightrag - INFO - Local query uses 24 entites, 16 relations, 3 chunks
+2025-03-11 15:39:58,214 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:39:58,214 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-11 15:39:59,844 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-11 15:39:59,844 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 15:39:59,867 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 15:40:01,156 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 15:40:01,218 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 15:40:23,916 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:40:23,925 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:40:23,926 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:40:23,926 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:40:23,950 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 15:40:23,974 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 15:40:25,187 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 15:40:25,188 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 15:41:00,810 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:41:08,724 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:41:08,734 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:41:31,327 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:41:39,670 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:41:39,679 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:41:39,679 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:41:39,679 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:41:39,702 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 15:41:39,726 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 15:41:40,596 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 15:41:40,606 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 15:41:56,761 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:41:56,773 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:41:56,774 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:41:56,774 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:41:56,797 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 15:41:56,824 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 15:41:57,844 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 15:41:59,644 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 15:42:33,988 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:42:34,001 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:42:34,001 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:42:34,001 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:42:34,025 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 15:42:34,052 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 15:42:35,915 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 15:42:36,022 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 15:43:47,916 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:43:57,976 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:43:57,989 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:43:57,989 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:43:57,989 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:43:58,012 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 15:43:58,036 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 15:43:59,555 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 15:44:01,478 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 15:44:13,472 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:44:20,712 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:44:20,722 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:44:27,002 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:44:27,002 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:44:27,029 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 15:44:27,048 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 15:44:27,721 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 15:44:27,822 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 15:45:34,847 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:45:34,847 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:45:34,869 - lightrag - INFO - Query nodes: Rag, Cloth, Textile, Cleaning, Material, top_k: 60, cosine: 0.2
+2025-03-11 15:45:34,888 - lightrag - INFO - Query edges: Definition, Usage, top_k: 60, cosine: 0.2
+2025-03-11 15:45:35,716 - lightrag - INFO - Global query uses 11 entites, 10 relations, 4 chunks
+2025-03-11 15:45:35,721 - lightrag - INFO - Local query uses 24 entites, 16 relations, 3 chunks
+2025-03-11 15:56:59,430 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:57:06,282 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:57:13,809 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:57:20,521 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:57:20,529 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 15:57:52,645 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 15:57:52,645 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 15:57:52,668 - lightrag - INFO - Query nodes: Rag, Cloth, Textile, Cleaning, Material, top_k: 60, cosine: 0.2
+2025-03-11 15:57:52,688 - lightrag - INFO - Query edges: Definition, Usage, top_k: 60, cosine: 0.2
+2025-03-11 15:57:53,400 - lightrag - INFO - Local query uses 24 entites, 16 relations, 3 chunks
+2025-03-11 15:57:53,695 - lightrag - INFO - Global query uses 11 entites, 10 relations, 4 chunks
+2025-03-11 15:58:23,251 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 15:58:23,260 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 16:02:20,860 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 16:02:20,860 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 16:02:20,884 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 16:02:20,903 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 16:02:21,945 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 16:02:22,271 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 16:02:43,713 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 16:02:43,713 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 16:02:43,738 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 16:02:43,757 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 16:02:44,446 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 16:02:44,897 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 16:03:09,757 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 16:03:16,412 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 16:03:24,502 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 16:03:24,510 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 16:08:33,963 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 16:08:33,963 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 16:08:33,986 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 16:08:34,005 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 16:08:36,036 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks
+2025-03-11 16:08:36,070 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 16:08:59,122 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 16:09:08,095 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 16:09:16,080 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 16:09:24,668 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 16:09:32,972 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-11 16:09:32,981 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-11 16:09:32,981 - lightrag - INFO - Storage Initialization completed!
+2025-03-11 16:09:32,981 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-11 16:09:33,006 - lightrag - INFO - Query nodes: Rag, Fabric, Cleaning cloth, top_k: 60, cosine: 0.2
+2025-03-11 16:09:33,030 - lightrag - INFO - Query edges: Definition, Clothing term, Textile, top_k: 60, cosine: 0.2
+2025-03-11 16:09:33,798 - lightrag - INFO - Global query uses 2 entites, 1 relations, 2 chunks
+2025-03-11 16:09:33,805 - lightrag - INFO - Local query uses 18 entites, 16 relations, 3 chunks

@@ -136,6 +136,33 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "Qu'est ce qu'un rag ?"
+    },
+    "2687d773faa4279140878937002a0b7a": {
+      "return": "{\"high_level_keywords\": [\"D\\u00e9finition\"], \"low_level_keywords\": [\"Rag\", \"Termes\", \"Mots\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Qu'est ce qu'un rag"
+    },
+    "748228cde35ebd50938a4ae3a630ffff": {
+      "return": "{\"high_level_keywords\": [\"Definition\", \"Usage\"], \"low_level_keywords\": [\"Rag\", \"Cloth\", \"Textile\", \"Cleaning\", \"Material\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is a rag ?"
+    },
+    "00ae1987eb87fd00b4216f1bc9635796": {
+      "return": "{\"high_level_keywords\": [\"Definition\", \"Clothing term\", \"Textile\"], \"low_level_keywords\": [\"Rag\", \"Fabric\", \"Cleaning cloth\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is a Rag"
     }
   },
   "hybrid": {
@@ -156,6 +183,35 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "Qu'est ce qu'un rag ?"
+    },
+    "e30964edc3bb9ab0b23ab2276ddd788c": {
+      "return": "## Qu'est-ce qu'un RAG ?\n\nRAG, ou \"Retrieval-Augmented Generation,\" est un système qui combine la recherche d'informations et la génération de texte pour fournir des réponses précises et vérifiables. Voici quelques détails sur son fonctionnement :\n\n- **Analyse de la question** : Le système RAG commence par comprendre la requête de l'utilisateur.\n- **Recherche d'informations** : Il consulte des bases de données ou des documents internes pertinents pour obtenir les informations nécessaires.\n- **Génération de la réponse** : Le modèle rédige une réponse basée sur les informations récupérées.\n- **Fourniture des sources** : Chaque réponse est accompagnée de références vérifiables, assurant ainsi la fiabilité des informations fournies.\n\nLe RAG est particulièrement adapté pour l'accès aux connaissances internes dans les entreprises, offrant une mise à jour en temps réel et une adaptabilité aux bases de connaissances internes de chaque organisation. Comparé à d'autres solutions d'intelligence artificielle, comme ChatGPT, RAG est conçu pour être plus fiable et extensible pour répondre aux besoins spécifiques des entreprises.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Qu'est ce qu'un rag ?"
+    },
+    "5f5aa4eb9b7a4a49f2b0199d7c44d15d": {
+      "return": "{\"high_level_keywords\": [\"RAG\"], \"low_level_keywords\": []}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Qu'est ce qu'un rag"
+    }
+  },
+  "global": {
+    "331324a2831c589502ba7ff6a556a55e": {
+      "return": "## Qu’est-ce qu’un RAG ?\n\nLe Retrieval-Augmented Generation (RAG) est un système combinant la recherche d’informations et la génération de texte pour fournir des réponses précises et sourcées. Ce procédé implique trois étapes principales :\n\n1. **Analyse de la question** : L'IA comprend la requête de l'utilisateur.\n2. **Recherche d'informations** : La technologie consulte des bases de données ou des documents internes pertinents pour recueillir des données.\n3. **Génération de la réponse** : Le modèle rédige une réponse basée sur les informations récupérées, accompagnée de références vérifiables.\n\n### Avantages du RAG\n\n- **Fiabilité** : Les réponses sont basées sur des données réelles et accompagnées de sources vérifiables.\n- **Mise à jour en temps réel** : Cette approche permet l'intégration de nouvelles informations sans nécessiter un réentraînement complet du modèle.\n- **Adaptabilité** : RAG s'adapte aux bases de connaissances internes spécifiques à chaque entreprise, rendant l'information plus pertinente et précise.\n\nRAG est particulièrement utile dans des environnements d'entreprise où l'accès rapide et précis à la documentation interne est crucial, notamment par rapport aux systèmes alternatifs comme ChatGPT qui ne sont pas optimisés pour la mise à jour dynamique ou l'accès à des documents internes en direct.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Qu'est ce qu'un rag"
     }
   }
 }
