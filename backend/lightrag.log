@@ -1624,3 +1624,467 @@
 2025-03-12 10:13:15,817 - lightrag - INFO - Local query uses 44 entites, 18 relations, 4 chunks
 2025-03-12 10:13:32,317 - lightrag - INFO - Loaded document status storage with 2 records
 2025-03-12 10:13:32,325 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:25:17,072 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:25:17,081 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:25:40,761 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:25:49,251 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:25:58,498 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:26:06,746 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:26:14,153 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:26:22,826 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:26:31,427 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:26:39,744 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:26:47,272 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:26:47,280 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:26:57,923 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:27:06,917 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:27:14,376 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:27:22,272 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:27:31,938 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:27:40,160 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:27:48,638 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:27:48,645 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:31:41,023 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:31:49,106 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:31:57,359 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:31:57,367 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:34:14,898 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:34:23,765 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:34:31,213 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:34:38,422 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:34:46,002 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:34:53,739 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:35:00,854 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:35:07,881 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:35:16,532 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:35:16,540 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:35:16,867 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-12 10:35:25,961 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:35:25,968 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:35:26,310 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-12 10:35:36,555 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:35:36,561 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:35:36,971 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-12 10:35:46,050 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:35:46,057 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:35:46,419 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-12 10:35:53,760 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:36:02,444 - lightrag - INFO - Loaded document status storage with 2 records
+2025-03-12 10:36:02,453 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:42:19,960 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-12 10:42:19,961 - lightrag - INFO - Inserting 14 to doc_status
+2025-03-12 10:42:19,962 - lightrag - INFO - Stored 14 new unique documents
+2025-03-12 10:42:19,962 - lightrag - INFO - Number of batches to process: 1.
+2025-03-12 10:42:19,962 - lightrag - INFO - Start processing batch 1 of 1.
+2025-03-12 10:42:20,261 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:42:20,262 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:42:20,262 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:42:20,262 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:42:20,288 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:42:32,337 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:42:32,338 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:42:43,008 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:42:43,009 - lightrag - INFO -   Chunk 1/1: extracted 15 entities and 4 relationships (deduplicated)
+2025-03-12 10:42:43,009 - lightrag - INFO - Extracted 15 entities and 4 relationships (deduplicated)
+2025-03-12 10:42:43,010 - lightrag - INFO - Inserting 15 to entities
+2025-03-12 10:42:43,939 - lightrag - INFO - Inserting 4 to relationships
+2025-03-12 10:42:44,884 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:42:44,885 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:42:44,889 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:42:44,889 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:42:44,889 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:42:44,915 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:42:50,768 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:42:50,768 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:43:01,894 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:43:01,895 - lightrag - INFO -   Chunk 1/1: extracted 7 entities and 6 relationships (deduplicated)
+2025-03-12 10:43:01,895 - lightrag - INFO - Extracted 7 entities and 6 relationships (deduplicated)
+2025-03-12 10:43:01,896 - lightrag - INFO - Inserting 7 to entities
+2025-03-12 10:43:07,692 - lightrag - INFO - Inserting 6 to relationships
+2025-03-12 10:43:09,532 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:43:09,533 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:43:09,533 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:43:09,534 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:43:09,534 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:43:09,556 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:43:18,447 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:43:18,448 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:43:25,304 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:43:25,304 - lightrag - INFO -   Chunk 1/1: extracted 10 entities and 3 relationships (deduplicated)
+2025-03-12 10:43:25,305 - lightrag - INFO - Extracted 10 entities and 3 relationships (deduplicated)
+2025-03-12 10:43:25,305 - lightrag - INFO - Inserting 10 to entities
+2025-03-12 10:43:26,957 - lightrag - INFO - Inserting 3 to relationships
+2025-03-12 10:43:28,156 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:43:28,157 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:43:28,162 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:43:28,162 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:43:28,162 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:43:28,184 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:43:42,788 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:43:42,789 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:43:47,703 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:43:47,703 - lightrag - INFO -   Chunk 1/1: extracted 5 entities and 2 relationships (deduplicated)
+2025-03-12 10:43:47,704 - lightrag - INFO - Extracted 5 entities and 2 relationships (deduplicated)
+2025-03-12 10:43:47,704 - lightrag - INFO - Inserting 5 to entities
+2025-03-12 10:43:48,425 - lightrag - INFO - Inserting 2 to relationships
+2025-03-12 10:43:48,940 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:43:48,941 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:43:48,946 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:43:48,946 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:43:48,946 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:43:48,969 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:43:55,487 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:43:55,487 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:44:04,089 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:44:04,089 - lightrag - INFO -   Chunk 1/1: extracted 11 entities and 1 relationships (deduplicated)
+2025-03-12 10:44:04,090 - lightrag - INFO - Extracted 11 entities and 1 relationships (deduplicated)
+2025-03-12 10:44:04,090 - lightrag - INFO - Inserting 11 to entities
+2025-03-12 10:44:05,670 - lightrag - INFO - Inserting 1 to relationships
+2025-03-12 10:44:06,136 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:44:06,137 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:44:06,142 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:44:06,142 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:44:06,142 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:44:06,169 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:44:11,256 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:44:11,256 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:44:14,371 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:44:14,371 - lightrag - INFO -   Chunk 1/1: extracted 5 entities and 2 relationships (deduplicated)
+2025-03-12 10:44:14,371 - lightrag - INFO - Extracted 5 entities and 2 relationships (deduplicated)
+2025-03-12 10:44:14,372 - lightrag - INFO - Inserting 5 to entities
+2025-03-12 10:44:15,577 - lightrag - INFO - Inserting 2 to relationships
+2025-03-12 10:44:16,486 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:44:16,487 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:44:16,491 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:44:16,491 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:44:16,491 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:44:16,514 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:44:24,773 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:44:24,773 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:44:29,279 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:44:29,279 - lightrag - INFO -   Chunk 1/1: extracted 8 entities and 5 relationships (deduplicated)
+2025-03-12 10:44:29,280 - lightrag - INFO - Extracted 8 entities and 5 relationships (deduplicated)
+2025-03-12 10:44:29,280 - lightrag - INFO - Inserting 8 to entities
+2025-03-12 10:44:30,334 - lightrag - INFO - Inserting 5 to relationships
+2025-03-12 10:44:32,372 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:44:32,373 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:44:32,377 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:44:32,377 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:44:32,377 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:44:32,401 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:44:37,676 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:44:37,676 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:44:50,790 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:44:50,790 - lightrag - INFO -   Chunk 1/1: extracted 12 entities and 9 relationships (deduplicated)
+2025-03-12 10:44:50,791 - lightrag - INFO - Extracted 12 entities and 9 relationships (deduplicated)
+2025-03-12 10:44:50,791 - lightrag - INFO - Inserting 12 to entities
+2025-03-12 10:44:51,818 - lightrag - INFO - Inserting 9 to relationships
+2025-03-12 10:44:53,482 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:44:53,483 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:44:53,487 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:44:53,487 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:44:53,488 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:44:53,512 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:44:57,439 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:44:57,439 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:01,809 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:01,809 - lightrag - INFO -   Chunk 1/1: extracted 4 entities and 3 relationships (deduplicated)
+2025-03-12 10:45:01,810 - lightrag - INFO - Extracted 4 entities and 3 relationships (deduplicated)
+2025-03-12 10:45:01,810 - lightrag - INFO - Inserting 4 to entities
+2025-03-12 10:45:02,435 - lightrag - INFO - Inserting 3 to relationships
+2025-03-12 10:45:04,343 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:04,344 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:04,348 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:45:04,349 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:45:04,349 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:45:04,374 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:11,060 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:11,060 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:14,950 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:14,951 - lightrag - INFO -   Chunk 1/1: extracted 6 entities and 2 relationships (deduplicated)
+2025-03-12 10:45:14,952 - lightrag - INFO - Extracted 6 entities and 2 relationships (deduplicated)
+2025-03-12 10:45:14,952 - lightrag - INFO - Inserting 6 to entities
+2025-03-12 10:45:16,509 - lightrag - INFO - Inserting 2 to relationships
+2025-03-12 10:45:16,904 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:16,905 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:16,909 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:45:16,909 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:45:16,909 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:45:16,934 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:24,474 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:24,474 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:30,516 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:30,516 - lightrag - INFO -   Chunk 1/1: extracted 6 entities and 7 relationships (deduplicated)
+2025-03-12 10:45:30,517 - lightrag - INFO - Extracted 6 entities and 7 relationships (deduplicated)
+2025-03-12 10:45:30,517 - lightrag - INFO - Inserting 6 to entities
+2025-03-12 10:45:31,222 - lightrag - INFO - Inserting 7 to relationships
+2025-03-12 10:45:32,276 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:32,276 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:32,281 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:45:32,281 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:45:32,281 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:45:32,308 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:38,647 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:38,648 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:42,086 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:42,086 - lightrag - INFO -   Chunk 1/1: extracted 6 entities and 2 relationships (deduplicated)
+2025-03-12 10:45:42,087 - lightrag - INFO - Extracted 6 entities and 2 relationships (deduplicated)
+2025-03-12 10:45:42,087 - lightrag - INFO - Inserting 6 to entities
+2025-03-12 10:45:43,239 - lightrag - INFO - Inserting 2 to relationships
+2025-03-12 10:45:43,855 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:43,856 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:43,860 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:45:43,861 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:45:43,861 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:45:43,883 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:47,103 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:47,104 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:48,687 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:48,687 - lightrag - INFO -   Chunk 1/1: extracted 3 entities and 1 relationships (deduplicated)
+2025-03-12 10:45:48,687 - lightrag - INFO - Extracted 3 entities and 1 relationships (deduplicated)
+2025-03-12 10:45:48,688 - lightrag - INFO - Inserting 3 to entities
+2025-03-12 10:45:50,085 - lightrag - INFO - Inserting 1 to relationships
+2025-03-12 10:45:50,797 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:50,798 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:45:50,799 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 10:45:50,799 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 10:45:50,799 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 10:45:50,825 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:45:54,340 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:45:54,340 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 10:46:07,793 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:46:07,793 - lightrag - INFO -   Chunk 1/1: extracted 9 entities and 8 relationships (deduplicated)
+2025-03-12 10:46:07,794 - lightrag - INFO - Extracted 9 entities and 8 relationships (deduplicated)
+2025-03-12 10:46:07,795 - lightrag - INFO - Inserting 9 to entities
+2025-03-12 10:46:09,258 - lightrag - INFO - Inserting 8 to relationships
+2025-03-12 10:46:10,185 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 10:46:10,186 - lightrag - INFO - Completed batch 1 of 1.
+2025-03-12 10:46:10,211 - lightrag - INFO - Writing graph with 152 nodes, 81 edges
+2025-03-12 10:46:10,216 - lightrag - INFO - All Insert done
+2025-03-12 10:49:03,637 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-12 10:49:03,638 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-12 10:49:05,560 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 10:49:05,560 - lightrag - INFO - Query nodes: Visuel, IA, Aide, Technologie, Service, top_k: 60, cosine: 0.2
+2025-03-12 10:49:05,582 - lightrag - INFO - Query edges: Entreprise, Génération de visuels, Intelligence artificielle, top_k: 60, cosine: 0.2
+2025-03-12 10:49:06,095 - lightrag - INFO - Global query uses 57 entites, 60 relations, 8 chunks
+2025-03-12 10:49:08,342 - lightrag - INFO - Local query uses 60 entites, 49 relations, 14 chunks
+2025-03-12 10:51:58,714 - lightrag - INFO - Loaded document status storage with 16 records
+2025-03-12 10:51:58,720 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:51:59,111 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-12 10:52:06,982 - lightrag - INFO - Loaded document status storage with 16 records
+2025-03-12 10:52:06,988 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:52:07,397 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-12 10:52:33,428 - lightrag - INFO - Loaded document status storage with 16 records
+2025-03-12 10:52:41,630 - lightrag - INFO - Loaded document status storage with 16 records
+2025-03-12 10:52:48,703 - lightrag - INFO - Loaded document status storage with 16 records
+2025-03-12 10:52:56,604 - lightrag - INFO - Loaded document status storage with 16 records
+2025-03-12 10:52:56,615 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:57:48,748 - lightrag - INFO - Loaded document status storage with 16 records
+2025-03-12 10:57:48,760 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 10:59:57,635 - lightrag - INFO - Loaded document status storage with 0 records
+2025-03-12 10:59:57,647 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 11:00:03,288 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-12 11:00:03,289 - lightrag - INFO - Inserting 14 to doc_status
+2025-03-12 11:00:03,289 - lightrag - INFO - Stored 14 new unique documents
+2025-03-12 11:00:03,289 - lightrag - INFO - Number of batches to process: 1.
+2025-03-12 11:00:03,289 - lightrag - INFO - Start processing batch 1 of 1.
+2025-03-12 11:00:03,673 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:00:03,673 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:00:03,673 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:00:03,674 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:00:03,701 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:00:09,728 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:00:09,728 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:00:19,862 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:00:19,863 - lightrag - INFO -   Chunk 1/1: extracted 7 entities and 1 relationships (deduplicated)
+2025-03-12 11:00:19,864 - lightrag - INFO - Extracted 7 entities and 1 relationships (deduplicated)
+2025-03-12 11:00:19,864 - lightrag - INFO - Inserting 7 to entities
+2025-03-12 11:00:21,193 - lightrag - INFO - Inserting 1 to relationships
+2025-03-12 11:00:22,222 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:00:22,223 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:00:22,227 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:00:22,227 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:00:22,227 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:00:22,250 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:00:33,758 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:00:33,758 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:00:39,215 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:00:39,215 - lightrag - INFO -   Chunk 1/1: extracted 11 entities and 4 relationships (deduplicated)
+2025-03-12 11:00:39,216 - lightrag - INFO - Extracted 11 entities and 4 relationships (deduplicated)
+2025-03-12 11:00:39,216 - lightrag - INFO - Inserting 11 to entities
+2025-03-12 11:00:41,257 - lightrag - INFO - Inserting 4 to relationships
+2025-03-12 11:00:42,202 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:00:42,203 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:00:42,207 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:00:42,207 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:00:42,207 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:00:42,237 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:00:46,078 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:00:46,078 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:00:51,709 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:00:51,709 - lightrag - INFO -   Chunk 1/1: extracted 4 entities and 3 relationships (deduplicated)
+2025-03-12 11:00:51,710 - lightrag - INFO - Extracted 4 entities and 3 relationships (deduplicated)
+2025-03-12 11:00:51,710 - lightrag - INFO - Inserting 4 to entities
+2025-03-12 11:00:53,159 - lightrag - INFO - Inserting 3 to relationships
+2025-03-12 11:00:54,379 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:00:54,380 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:00:54,384 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:00:54,385 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:00:54,385 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:00:54,409 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:00:58,058 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:00:58,058 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:00:59,900 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:00:59,901 - lightrag - INFO -   Chunk 1/1: extracted 3 entities and 1 relationships (deduplicated)
+2025-03-12 11:00:59,901 - lightrag - INFO - Extracted 3 entities and 1 relationships (deduplicated)
+2025-03-12 11:00:59,901 - lightrag - INFO - Inserting 3 to entities
+2025-03-12 11:01:01,551 - lightrag - INFO - Inserting 1 to relationships
+2025-03-12 11:01:02,015 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:02,016 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:02,020 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:01:02,020 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:01:02,020 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:01:02,042 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:01:09,007 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:01:09,007 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:01:19,459 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:01:19,459 - lightrag - INFO -   Chunk 1/1: extracted 6 entities and 2 relationships (deduplicated)
+2025-03-12 11:01:19,460 - lightrag - INFO - Extracted 6 entities and 2 relationships (deduplicated)
+2025-03-12 11:01:19,460 - lightrag - INFO - Inserting 6 to entities
+2025-03-12 11:01:20,809 - lightrag - INFO - Inserting 2 to relationships
+2025-03-12 11:01:21,402 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:21,403 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:21,407 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:01:21,407 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:01:21,407 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:01:21,429 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:01:26,651 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:01:26,651 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:01:31,236 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:01:31,236 - lightrag - INFO -   Chunk 1/1: extracted 5 entities and 4 relationships (deduplicated)
+2025-03-12 11:01:31,241 - lightrag - INFO - Extracted 5 entities and 4 relationships (deduplicated)
+2025-03-12 11:01:31,241 - lightrag - INFO - Inserting 5 to entities
+2025-03-12 11:01:31,933 - lightrag - INFO - Inserting 4 to relationships
+2025-03-12 11:01:33,300 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:33,302 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:33,306 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:01:33,306 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:01:33,306 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:01:33,334 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:01:40,763 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:01:40,763 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:01:42,148 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:01:42,149 - lightrag - INFO -   Chunk 1/1: extracted 5 entities and 3 relationships (deduplicated)
+2025-03-12 11:01:42,150 - lightrag - INFO - Extracted 5 entities and 3 relationships (deduplicated)
+2025-03-12 11:01:42,150 - lightrag - INFO - Inserting 5 to entities
+2025-03-12 11:01:42,937 - lightrag - INFO - Inserting 3 to relationships
+2025-03-12 11:01:43,697 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:43,698 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:43,702 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:01:43,702 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:01:43,702 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:01:43,725 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:01:50,283 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:01:50,283 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:01:57,039 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:01:57,039 - lightrag - INFO -   Chunk 1/1: extracted 9 entities and 2 relationships (deduplicated)
+2025-03-12 11:01:57,040 - lightrag - INFO - Extracted 9 entities and 2 relationships (deduplicated)
+2025-03-12 11:01:57,041 - lightrag - INFO - Inserting 9 to entities
+2025-03-12 11:01:58,918 - lightrag - INFO - Inserting 2 to relationships
+2025-03-12 11:01:59,608 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:59,609 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:01:59,613 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:01:59,613 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:01:59,613 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:01:59,639 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:06,128 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:06,129 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:15,677 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:15,678 - lightrag - INFO -   Chunk 1/1: extracted 8 entities and 7 relationships (deduplicated)
+2025-03-12 11:02:15,678 - lightrag - INFO - Extracted 8 entities and 7 relationships (deduplicated)
+2025-03-12 11:02:15,679 - lightrag - INFO - Inserting 8 to entities
+2025-03-12 11:02:16,798 - lightrag - INFO - Inserting 7 to relationships
+2025-03-12 11:02:17,661 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:02:17,662 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:02:17,666 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:02:17,667 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:02:17,667 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:02:17,690 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:21,615 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:21,616 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:23,582 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:23,582 - lightrag - INFO -   Chunk 1/1: extracted 4 entities and 1 relationships (deduplicated)
+2025-03-12 11:02:23,583 - lightrag - INFO - Extracted 4 entities and 1 relationships (deduplicated)
+2025-03-12 11:02:23,583 - lightrag - INFO - Inserting 4 to entities
+2025-03-12 11:02:26,139 - lightrag - INFO - Inserting 1 to relationships
+2025-03-12 11:02:26,649 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:02:26,649 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:02:26,653 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:02:26,654 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:02:26,654 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:02:26,678 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:33,085 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:33,085 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:37,297 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:37,297 - lightrag - INFO -   Chunk 1/1: extracted 6 entities and 2 relationships (deduplicated)
+2025-03-12 11:02:37,298 - lightrag - INFO - Extracted 6 entities and 2 relationships (deduplicated)
+2025-03-12 11:02:37,298 - lightrag - INFO - Inserting 6 to entities
+2025-03-12 11:02:38,037 - lightrag - INFO - Inserting 2 to relationships
+2025-03-12 11:02:38,929 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:02:38,930 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:02:38,934 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:02:38,934 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:02:38,934 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:02:38,957 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:43,120 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:43,120 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:44,730 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:44,730 - lightrag - INFO -   Chunk 1/1: extracted 2 entities and 1 relationships (deduplicated)
+2025-03-12 11:02:44,731 - lightrag - INFO - Extracted 2 entities and 1 relationships (deduplicated)
+2025-03-12 11:02:44,731 - lightrag - INFO - Inserting 2 to entities
+2025-03-12 11:02:45,366 - lightrag - INFO - Inserting 1 to relationships
+2025-03-12 11:02:45,768 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:02:45,769 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:02:45,773 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:02:45,773 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:02:45,773 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:02:45,805 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:02:58,275 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:02:58,275 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:03:04,214 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:03:04,214 - lightrag - INFO -   Chunk 1/1: extracted 7 entities and 6 relationships (deduplicated)
+2025-03-12 11:03:04,215 - lightrag - INFO - Extracted 7 entities and 6 relationships (deduplicated)
+2025-03-12 11:03:04,215 - lightrag - INFO - Inserting 7 to entities
+2025-03-12 11:03:04,935 - lightrag - INFO - Inserting 6 to relationships
+2025-03-12 11:03:05,616 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:03:05,617 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:03:05,621 - lightrag - INFO - Inserting 1 to chunks
+2025-03-12 11:03:05,621 - lightrag - INFO - Inserting 1 to full_docs
+2025-03-12 11:03:05,621 - lightrag - INFO - Inserting 1 to text_chunks
+2025-03-12 11:03:05,644 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:03:19,985 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:03:19,985 - lightrag - INFO - Non-embedding cached missed(mode:default type:extract)
+2025-03-12 11:03:26,742 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-12 11:03:26,743 - lightrag - INFO -   Chunk 1/1: extracted 15 entities and 6 relationships (deduplicated)
+2025-03-12 11:03:26,744 - lightrag - INFO - Extracted 15 entities and 6 relationships (deduplicated)
+2025-03-12 11:03:26,744 - lightrag - INFO - Inserting 15 to entities
+2025-03-12 11:03:27,801 - lightrag - INFO - Inserting 6 to relationships
+2025-03-12 11:03:28,426 - lightrag - INFO - Inserting 1 to doc_status
+2025-03-12 11:03:28,427 - lightrag - INFO - Completed batch 1 of 1.
+2025-03-12 11:03:28,437 - lightrag - INFO - Writing graph with 77 nodes, 43 edges
+2025-03-12 11:03:28,442 - lightrag - INFO - All Insert done
+2025-03-12 11:04:06,561 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:04:06,572 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 11:08:10,291 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:08:10,302 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 11:08:31,910 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:08:31,922 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 11:09:19,669 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:09:28,582 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:09:28,594 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 11:10:59,247 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:11:06,708 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:11:14,940 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:11:14,952 - lightrag - INFO - Storage Initialization completed!
+2025-03-12 11:20:17,569 - lightrag - INFO - Loaded document status storage with 14 records
+2025-03-12 11:20:17,582 - lightrag - INFO - Storage Initialization completed!

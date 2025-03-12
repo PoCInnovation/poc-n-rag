@@ -57,7 +57,7 @@ llm = ChatOpenAI(
 )
 
 @router_Vector_RAG.post("/uploadfile/")
-async def upload_file(file: UploadFile = File(...)):
+async def upload_document_vectorRAG(file: UploadFile = File(...)):
     bulk_data = []
     if file.content_type == "text/csv":
         df = pd.read_csv(file.file)

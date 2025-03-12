@@ -1,16 +1,15 @@
 from fastapi import APIRouter, Query, File, UploadFile, HTTPException
+from fastapi.responses import Response, StreamingResponse
 from lightrag import LightRAG, QueryParam
 from lightrag.llm.openai import gpt_4o_complete, openai_embed
-import pandas as pd
-from fastapi.responses import Response, StreamingResponse
-from typing import List
-import os
-from utils import row_to_text
-from pdfminer.high_level import extract_text
-
 from lightrag.utils import EmbeddingFunc, always_get_an_event_loop
-import inspect
+from pdfminer.high_level import extract_text
+from typing import List
+from utils import row_to_text
 import asyncio
+import inspect
+import os
+import pandas as pd
 
 rag = LightRAG(
     working_dir="workspace",
@@ -25,7 +24,7 @@ router_Light_RAG = APIRouter()
 Upload csv file to and insert data into lightRAG
 """
 @router_Light_RAG.post("/upload")
-def upload_document(file: UploadFile = File(...)):
+def upload_document_lightRAG(file: UploadFile = File(...)):
     if file.content_type == "text/csv":
         with open("workspace/data.csv", "wb") as f:
             f.write(file.file.read())

@@ -8,481 +8,648 @@
   <key id="d1" for="node" attr.name="description" attr.type="string" />
   <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="GENRAG">
+    <node id="Devana">
       <data key="d0">organization</data>
-      <data key="d1">GENRAG is an organization focused on revolutionizing access to internal knowledge using artificial intelligence, specifically by implementing Retrieval-Augmented Generation (RAG) systems.&lt;SEP&gt;GENRAG is an organization providing a platform for creating and deploying custom intelligent assistants, without requiring technical expertise. It offers a robust API and intuitive interface, facilitating integration and use.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b&lt;SEP&gt;chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+      <data key="d1">Devana is a company based in Herbignac, specializing in generative AI technology since 2019. They provide a unique platform and embedded technologies that ensure the reliability and traceability of generated information, positioning themselves as high-performance aggregators of multimodal generative artificial intelligences. Their centralized and secure environment, 'the HUB', makes generative AI models accessible with an intuitive interface and pre-trained models, democratizing AI usage.</data>
+      <data key="d2">chunk-d46898341329c06ddc27a29a2d37f6da</data>
     </node>
-    <node id="Quentin Bolloré">
-      <data key="d0">person</data>
-      <data key="d1">Quentin Bolloré is a Fullstack Developer at PoC Innovation with experience in deploying numerous cloud-based applications. At GenRAG, he is responsible for developing the platform and deployment infrastructure for RAG solutions.&lt;SEP&gt;Quentin Bolloré is an individual associated with GENRAG, likely involved in its development and operations.&lt;SEP&gt;Quentin Bolloré is a full-stack developer involved with GenRAG, integrating the latest technological advancements and managing deployment infrastructure.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f&lt;SEP&gt;chunk-f8cb7e9b0a68ea1e1e276ff14601acb7</data>
-    </node>
-    <node id="Valentin Peron">
-      <data key="d0">person</data>
-      <data key="d1">Valentin Peron is an AI R&amp;D Developer at PoC Innovation and a specialist in Machine Learning, Deep Learning, and LLM. He has designed a multimodal chatbot, developed a GPT model from scratch, and implemented RAG solutions for enterprises at GenRAG.&lt;SEP&gt;Valentin Peron is an individual associated with GENRAG, contributing to its initiatives and development.&lt;SEP&gt;Valentin Peron is an AI expert at PoC Innovation, contributing his expertise to GenRAG's technological advancements and deployment infrastructure.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f&lt;SEP&gt;chunk-f8cb7e9b0a68ea1e1e276ff14601acb7</data>
-    </node>
-    <node id="ChatGPT">
-      <data key="d0">category</data>
-      <data key="d1">ChatGPT refers to an AI technology that provides general information, but is noted for not being tailored for specific enterprise needs and lacks real-time adaptability.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="RAG">
-      <data key="d0">technology</data>
-      <data key="d1">Retrieval-Augmented Generation (RAG) is a system used by GenRAG to combine information retrieval and text generation, providing accurate, verified responses.&lt;SEP&gt;Retrieval-Augmented Generation, or RAG, is a system combining information retrieval and text generation to provide accurate and sourced responses adaptable to enterprise environments.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
-    </node>
-    <node id="Enterprise A">
-      <data key="d0">organization</data>
-      <data key="d1">Enterprise A is an example of a small-to-medium enterprise with moderate usage of GENRAG's RAG solution.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="Enterprise B">
-      <data key="d0">organization</data>
-      <data key="d1">Enterprise B represents a larger enterprise with advanced needs utilizing GENRAG's high-end RAG solution.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="Intelligence Artificielle">
-      <data key="d0">category</data>
-      <data key="d1">Intelligence Artificielle, or Artificial Intelligence, refers to the use of AI technologies like RAG and ChatGPT to enhance information processing and decision-making in enterprises.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="Retrieval-Augmented Generation">
-      <data key="d0">category</data>
-      <data key="d1">Retrieval-Augmented Generation is a workflow that combines information retrieval with text generation to provide precise, sourced answers within enterprises.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="UI">
-      <data key="d0">technology</data>
-      <data key="d1">UI, or User Interface, is part of GENRAG's offering, allowing customers to access and interact with RAG systems easily and efficiently.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="API">
-      <data key="d0">technology</data>
-      <data key="d1">API, or Application Programming Interface, is provided by GENRAG to facilitate interaction with and customization of its RAG systems.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="Mistral 7B">
-      <data key="d0">technology</data>
-      <data key="d1">Mistral 7B is a low-cost language model option available to Enterprise A as part of GENRAG's RAG solution package.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="GPT-4O">
-      <data key="d0">technology</data>
-      <data key="d1">GPT-4O is a high-end language model option provided to Enterprise B as part of GENRAG's advanced RAG solution offering.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="2024 and 2034 AI Market Growth Projections">
-      <data key="d0">event</data>
-      <data key="d1">The global AI market is projected to grow from $638.23 billion in 2024 to $3,680.47 billion in 2034, highlighting a significant expansion over the next decade.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="2025 and 2034 AI Market Growth Projections">
-      <data key="d0">event</data>
-      <data key="d1">An alternative market projection forecasts growth from $747.91 billion in 2025 to $3.68 trillion in 2034, showcasing a robust increase in AI adoption and innovation.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="Flexible Subscription Model">
-      <data key="d0">category</data>
-      <data key="d1">GENRAG offers a flexible subscription model for its RAG services, adjusting costs based on resource usage and complexity of the implementation.</data>
-      <data key="d2">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </node>
-    <node id="Julie Martin">
-      <data key="d0">person</data>
-      <data key="d1">Julie Martin is a 33-year-old technical project manager with 10 years of experience in IT project management, based in Bordeaux, France, working for a SaaS software company. She aims to quickly find technical information and help junior developers access documentation efficiently.&lt;SEP&gt;Julie Martin is an IT project manager who uses GenRAG to efficiently access technical documents.</data>
-      <data key="d2">chunk-8280ffbd9d54081ce104d114c4f88f68&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
-    </node>
-    <node id="Bordeaux, France">
+    <node id="Herbignac">
       <data key="d0">geo</data>
-      <data key="d1">Bordeaux is a city in France where Julie Martin, a technical project manager, is based.&lt;SEP&gt;Bordeaux, France, is the location where Sophie Lemoine works and lives.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+      <data key="d1">Herbignac is the location where the company Devana is based, indicating its geographical presence.</data>
+      <data key="d2">chunk-d46898341329c06ddc27a29a2d37f6da</data>
     </node>
-    <node id="Société de logiciels SaaS">
-      <data key="d0">organization</data>
-      <data key="d1">The SaaS software company where Julie Martin works, specializing in developing software solutions.</data>
-      <data key="d2">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
-    </node>
-    <node id="Paul Garnier">
-      <data key="d0">person</data>
-      <data key="d1">Paul Garnier is a 38-year-old individual mentioned in the text, likely involved in a professional capacity with GENRAG or its related activities.&lt;SEP&gt;Paul Garnier is a 38-year-old risk management consultant with 15 years of experience in compliance and auditing, based in Lyon, France, working with a national bank.&lt;SEP&gt;Paul Garnier is a risk management consultant who uses GenRAG to retrieve regulatory information for compliance purposes.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-8280ffbd9d54081ce104d114c4f88f68&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
-    </node>
-    <node id="AI Models">
+    <node id="Generative AI">
       <data key="d0">category</data>
-      <data key="d1">AI Models are integral to GENRAG's platform, enabling the deployment of intelligent assistants and supporting scalability.</data>
-      <data key="d2">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+      <data key="d1">Generative AI refers to a type of artificial intelligence technology that Devana specializes in, enhancing information reliability and traceability.&lt;SEP&gt;Generative AI refers to the branch of artificial intelligence focused on creating content or performing tasks autonomously. Lumiere Formation offers training in its application.</data>
+      <data key="d2">chunk-d46898341329c06ddc27a29a2d37f6da&lt;SEP&gt;chunk-23680da9fb08ea9f0a2fe51d59a588ed</data>
     </node>
-    <node id="Cloud Providers">
-      <data key="d0">organization</data>
-      <data key="d1">Cloud Providers are mentioned as key partners in GENRAG's ecosystem, supporting infrastructure and hosting solutions.</data>
-      <data key="d2">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+    <node id="The HUB">
+      <data key="d0">technology</data>
+      <data key="d1">The HUB is a centralized and secure environment developed by Devana, designed to allow users to easily and dynamically use generative AI models.</data>
+      <data key="d2">chunk-d46898341329c06ddc27a29a2d37f6da</data>
     </node>
-    <node id="European Legislation on AI">
+    <node id="Multimodal Generative Artificial Intelligences">
       <data key="d0">category</data>
-      <data key="d1">European Legislation on AI refers to regulatory frameworks impacting the adoption of AI solutions in the market.</data>
-      <data key="d2">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+      <data key="d1">Multimodal Generative Artificial Intelligences are diverse AI models that Devana aggregates with high performance, enabling varied applications across multiple modalities.</data>
+      <data key="d2">chunk-d46898341329c06ddc27a29a2d37f6da</data>
     </node>
-    <node id="Security and Confidentiality">
-      <data key="d0">category</data>
-      <data key="d1">Security and Confidentiality are concerns related to AI deployment, reflecting the need for safeguarding data and privacy.</data>
-      <data key="d2">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+    <node id="Intuitive Interface">
+      <data key="d0">technology</data>
+      <data key="d1">The Intuitive Interface is part of Devana's HUB, designed to simplify the use of generative AI for users without data science or programming expertise.</data>
+      <data key="d2">chunk-d46898341329c06ddc27a29a2d37f6da</data>
     </node>
-    <node id="Cost of Innovation">
-      <data key="d0">category</data>
-      <data key="d1">Cost of Innovation refers to the financial investment required for developing and implementing new AI technologies and solutions.</data>
-      <data key="d2">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+    <node id="Pre-trained Models">
+      <data key="d0">technology</data>
+      <data key="d1">Pre-trained Models are part of Devana's offering, facilitating easy access to advanced generative AI capabilities for users.</data>
+      <data key="d2">chunk-d46898341329c06ddc27a29a2d37f6da</data>
     </node>
-    <node id="Technical Team">
+    <node id="Polaria">
       <data key="d0">organization</data>
-      <data key="d1">The Technical Team at GENRAG is responsible for web development, DevOps, and AI model improvement, crucial to the platform's success.</data>
-      <data key="d2">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+      <data key="d1">Polaria is a company based in Finistère, operating throughout France. It focuses on GenAI activities, including conferences, training, and development of bespoke solutions. Through its technological subsidiary, it develops chatbot and conversational AI solutions, including generative AI since 2016. Its mission includes contributing to French, European, and Open Source AI technologies, and facilitating human, organizational, and managerial transformations related to AI.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
     </node>
-    <node id="GenRAG">
-      <data key="d0">organization</data>
-      <data key="d1">GenRAG is a customizable RAG system that offers an interface for formulating questions and retrieving precise answers from documentation swiftly.&lt;SEP&gt;GenRAG is an organization focused on revolutionizing access to internal knowledge through artificial intelligence. The company is involved in deploying advanced AI systems and providing scalable solutions.&lt;SEP&gt;GenRAG is an organization focused on transforming access to internal knowledge through artificial intelligence, specifically using Retrieval-Augmented Generation (RAG) systems.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-f8cb7e9b0a68ea1e1e276ff14601acb7&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
-    </node>
-    <node id="Lyon, France">
+    <node id="Finistère">
       <data key="d0">geo</data>
-      <data key="d1">Lyon, France, is the location where Paul Garnier is based.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba</data>
+      <data key="d1">Finistère is a geographic location where Polaria's headquarters are situated and from where it operates its activities across France.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
     </node>
-    <node id="Sophie Lemoine">
+    <node id="Conferences on Acculturation">
+      <data key="d0">event</data>
+      <data key="d1">Polaria holds conferences focused on acculturation, providing insights into AI technologies and their integration.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="Development of Chatbot and Conversational AI">
+      <data key="d0">category</data>
+      <data key="d1">Polaria's technological subsidiary is involved in developing chatbot and conversational AI solutions, including generative AI since 2016, aimed at creating advanced communication technologies.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="Training and Bespoke Solutions Development">
+      <data key="d0">category</data>
+      <data key="d1">Polaria offers training services and develops tailor-made AI solutions to meet specific client needs, emphasizing human-centered, AI-guided strategies.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="Technological Subsidiary">
+      <data key="d0">organization</data>
+      <data key="d1">Technological Subsidiary is a part of Polaria responsible for developing chatbot and conversational AI solutions, including generative AI.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="French AI Technologies">
+      <data key="d0">category</data>
+      <data key="d1">Polaria contributes to the development of conversational and generative AI technologies in France, emphasizing local innovation and advancement.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="European AI Technologies">
+      <data key="d0">category</data>
+      <data key="d1">Polaria is involved in the development of conversational and generative AI technologies across Europe, focusing on collaborative and innovative solutions.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="Open Source AI Technologies">
+      <data key="d0">category</data>
+      <data key="d1">Polaria participates in the development of open-source conversational and generative AI technologies, promoting shared growth and innovation.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="Human, Organizational, and Managerial Transformations">
+      <data key="d0">category</data>
+      <data key="d1">Polaria aids in the transformations driven by AI in human, organizational, and managerial contexts, helping entities adapt to new technological landscapes.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="Human-Centered, AI-Guided Strategies">
+      <data key="d0">category</data>
+      <data key="d1">Polaria guides organizations in developing strategies that are both human-centered and AI-guided, ensuring balanced technological integration.</data>
+      <data key="d2">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </node>
+    <node id="Qwanteos">
+      <data key="d0">organization</data>
+      <data key="d1">Qwanteos is a company that provides a comprehensive data processing service for AI professionals, focusing on precise and exhaustive annotation and labeling of data sets to ensure the optimal functioning of AI models.</data>
+      <data key="d2">chunk-72ea6bd87ca53cc4749f9c56690af7b3</data>
+    </node>
+    <node id="Nantes">
+      <data key="d0">geo</data>
+      <data key="d1">Nantes is the geographic location where Kalent is based.&lt;SEP&gt;Nantes is the location where the company Qwanteos is based.</data>
+      <data key="d2">chunk-4fee8c1b91bb94846312c556f9ce0e8b&lt;SEP&gt;chunk-72ea6bd87ca53cc4749f9c56690af7b3</data>
+    </node>
+    <node id="GenAI">
+      <data key="d0">category</data>
+      <data key="d1">GenAI refers to a category encompassing generative AI technologies, under which Angel Start's AI coach operates to aid business planning.&lt;SEP&gt;GenAI refers to generative artificial intelligence, a technology used to enhance productivity and creativity through AI-generated content.&lt;SEP&gt;GenAI refers to the activities related to generative artificial intelligence, involving data processing and model optimization.&lt;SEP&gt;GenAI refers to the category of AI technologies that Miakito focuses on in its activities, such as training, audits, diagnostics, and solution development.&lt;SEP&gt;GenAI refers to the category of AI technologies focused on providing advanced, generative solutions across various fields, including music.&lt;SEP&gt;GenAI refers to the category of generative artificial intelligence technologies that Kalent employs to optimize recruitment processes.&lt;SEP&gt;GenAI refers to the use of artificial intelligence technologies to optimize content for social media.</data>
+      <data key="d2">chunk-72ea6bd87ca53cc4749f9c56690af7b3&lt;SEP&gt;chunk-d15aedc6ba1a45cf2bc65f98ad7483be&lt;SEP&gt;chunk-a20c953c5f89062c833be676448740de&lt;SEP&gt;chunk-47f2c6b21a674a6f64cbb9be8324595d&lt;SEP&gt;chunk-fae50735eb929ee5d5e4d307acd3ee8d&lt;SEP&gt;chunk-4fee8c1b91bb94846312c556f9ce0e8b&lt;SEP&gt;chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </node>
+    <node id="Data Processing">
+      <data key="d0">category</data>
+      <data key="d1">Data Processing includes the annotation and labeling of datasets, crucial for the functioning of AI models, as offered by Qwanteos.</data>
+      <data key="d2">chunk-72ea6bd87ca53cc4749f9c56690af7b3</data>
+    </node>
+    <node id="Miakito">
+      <data key="d0">organization</data>
+      <data key="d1">Miakito is a company that develops custom AI solutions to automate repetitive tasks. Their activities include training, audits, diagnostics, and solution design.</data>
+      <data key="d2">chunk-fae50735eb929ee5d5e4d307acd3ee8d</data>
+    </node>
+    <node id="Rennes">
+      <data key="d0">geo</data>
+      <data key="d1">Rennes is the city where Backprop is based, situated in Brittany, France.&lt;SEP&gt;Rennes is the geographic location where Miakito is based.&lt;SEP&gt;Rennes is the geographical location where Airon Band is based.&lt;SEP&gt;Rennes is the geographical location where 2050score is based.&lt;SEP&gt;Rennes is the geographic location where Feelim is based, indicating it as their main operational area.&lt;SEP&gt;Rennes is the geographic location where Lumiere Formation is based, indicating its place of operation and central hub.&lt;SEP&gt;Rennes is the geographic location where Conjecto is based.</data>
+      <data key="d2">chunk-a20c953c5f89062c833be676448740de&lt;SEP&gt;chunk-47f2c6b21a674a6f64cbb9be8324595d&lt;SEP&gt;chunk-fae50735eb929ee5d5e4d307acd3ee8d&lt;SEP&gt;chunk-13b8cb1c8f2bd5468a8c968db5daa151&lt;SEP&gt;chunk-23680da9fb08ea9f0a2fe51d59a588ed&lt;SEP&gt;chunk-6d203a0a43c6e87e6c369bd937647b49&lt;SEP&gt;chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </node>
+    <node id="Airon Band">
+      <data key="d0">organization</data>
+      <data key="d1">Airon Band is a company based in Rennes that provides AI-powered career management solutions for independent artists and music professionals, helping to optimize visibility, monetization, and administrative task management.</data>
+      <data key="d2">chunk-a20c953c5f89062c833be676448740de</data>
+    </node>
+    <node id="AI">
+      <data key="d0">category</data>
+      <data key="d1">AI refers to artificial intelligence, utilized by Airon Band to enhance career management solutions for artists and music professionals.</data>
+      <data key="d2">chunk-a20c953c5f89062c833be676448740de</data>
+    </node>
+    <node id="Artistes Indépendants">
+      <data key="d0">category</data>
+      <data key="d1">Artistes Indépendants refers to independent artists who form part of the primary clientele for Airon Band's AI-powered career management platform.</data>
+      <data key="d2">chunk-a20c953c5f89062c833be676448740de</data>
+    </node>
+    <node id="Professionnels de la Musique">
+      <data key="d0">category</data>
+      <data key="d1">Professionnels de la Musique are music professionals who benefit from Airon Band's AI-driven solutions for optimizing visibility, monetization, and administrative management.</data>
+      <data key="d2">chunk-a20c953c5f89062c833be676448740de</data>
+    </node>
+    <node id="Backprop">
+      <data key="d0">organization</data>
+      <data key="d1">Backprop is a company based in Rennes, providing training and consultancy in generative AI to Breton businesses. They help SMEs integrate AI to boost productivity and creativity.</data>
+      <data key="d2">chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </node>
+    <node id="Breton businesses">
+      <data key="d0">category</data>
+      <data key="d1">Breton businesses are companies located in the Brittany region of France that potentially benefit from Backprop's services in generative AI.</data>
+      <data key="d2">chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </node>
+    <node id="SMEs">
+      <data key="d0">category</data>
+      <data key="d1">SMEs (Small and Medium-sized Enterprises) are businesses that Backprop aids by integrating AI to enhance their productivity and creativity.</data>
+      <data key="d2">chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </node>
+    <node id="Angel Start">
+      <data key="d0">organization</data>
+      <data key="d1">Angel Start is a company that has developed an AI coach to assist project leaders in structuring their ideas and generating forecasts, aligning with business plan facilitation through AI technology.</data>
+      <data key="d2">chunk-d15aedc6ba1a45cf2bc65f98ad7483be</data>
+    </node>
+    <node id="Saint-Malo">
+      <data key="d0">geo</data>
+      <data key="d1">Saint-Malo is the geographical location where Angel Start is based, providing a physical presence for the organization.</data>
+      <data key="d2">chunk-d15aedc6ba1a45cf2bc65f98ad7483be</data>
+    </node>
+    <node id="big bpi">
+      <data key="d0">event</data>
+      <data key="d1">Big BPI is an event where Angel Start plans to present their AI technology, suggesting their proactive engagement with industry showcases.</data>
+      <data key="d2">chunk-d15aedc6ba1a45cf2bc65f98ad7483be</data>
+    </node>
+    <node id="IA Coach">
+      <data key="d0">technology</data>
+      <data key="d1">IA Coach is the AI-based tool developed by Angel Start to assist project leaders in structuring their ideas and generating business forecasts.</data>
+      <data key="d2">chunk-d15aedc6ba1a45cf2bc65f98ad7483be</data>
+    </node>
+    <node id="2050score">
+      <data key="d0">organization</data>
+      <data key="d1">2050score is a company that collects, structures, evaluates, and shares public information from all EU enterprises regarding their progress towards a desirable economy by 2050. The company focuses on the key challenges of the Green Deal including carbon neutrality, circular economy, biodiversity protection, sustainable finance, social justice, and transparent governance.</data>
+      <data key="d2">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </node>
+    <node id="Green Deal">
+      <data key="d0">category</data>
+      <data key="d1">The Green Deal refers to the EU's comprehensive plan to make the economy sustainable by addressing issues such as carbon neutrality, circular economy, biodiversity protection, sustainable finance, social justice, and transparent governance.</data>
+      <data key="d2">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </node>
+    <node id="Carbon Neutrality">
+      <data key="d0">category</data>
+      <data key="d1">Carbon Neutrality is a state of net-zero carbon dioxide emissions, achieved through balancing emissions with removal efforts, which is part of the Green Deal challenges addressed by 2050score.</data>
+      <data key="d2">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </node>
+    <node id="Circular Economy">
+      <data key="d0">category</data>
+      <data key="d1">Circular Economy is an economic system aimed at eliminating waste and the continual use of resources, part of the Green Deal focus areas for 2050score.</data>
+      <data key="d2">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </node>
+    <node id="Biodiversity Protection">
+      <data key="d0">category</data>
+      <data key="d1">Biodiversity Protection involves conserving species, habitats, and ecosystems, which is a major goal of the Green Deal and a focus for 2050score.</data>
+      <data key="d2">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </node>
+    <node id="Sustainable Finance">
+      <data key="d0">category</data>
+      <data key="d1">Sustainable Finance refers to financial services integrating environmental, social, and governance (ESG) criteria, aligned with 2050score's objectives under the Green Deal.</data>
+      <data key="d2">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </node>
+    <node id="Social Justice">
+      <data key="d0">category</data>
+      <data key="d1">Social Justice is about equitable distribution of resources and opportunities, a societal goal aligned with the Green Deal, which 2050score aims to support.</data>
+      <data key="d2">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </node>
+    <node id="Transparent Governance">
+      <data key="d0">category</data>
+      <data key="d1">Transparent Governance involves decision-making processes that are open and accountable, part of the Green Deal principles supported by 2050score.</data>
+      <data key="d2">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </node>
+    <node id="Kalent">
+      <data key="d0">organization</data>
+      <data key="d1">Kalent is a recruitment platform powered by artificial intelligence, dedicated to helping companies find and engage qualified talent quickly. It offers a vast database of 25 million profiles with updated contact information and full GDPR compliance. The platform provides AI-driven search filters, personalized recruitment campaigns, and integration with ATS systems.</data>
+      <data key="d2">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </node>
+    <node id="Recruiters">
+      <data key="d0">category</data>
+      <data key="d1">Recruiters are users of the Kalent platform who use AI filters to refine their search for qualified candidates quickly.</data>
+      <data key="d2">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </node>
+    <node id="ATS (Applicant Tracking System)">
+      <data key="d0">category</data>
+      <data key="d1">ATS refers to software systems that companies use to handle their recruitment processes, which can be integrated with Kalent for automation.</data>
+      <data key="d2">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </node>
+    <node id="LinkedIn">
+      <data key="d0">organization</data>
+      <data key="d1">LinkedIn is a professional networking platform used by Kalent for multi-channel recruitment campaigns.</data>
+      <data key="d2">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </node>
+    <node id="WhatsApp">
+      <data key="d0">organization</data>
+      <data key="d1">WhatsApp is a messaging application used by Kalent to conduct multi-channel recruitment outreach.</data>
+      <data key="d2">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </node>
+    <node id="Email">
+      <data key="d0">category</data>
+      <data key="d1">Email is a communication method used by Kalent for conducting personalized recruitment campaigns.</data>
+      <data key="d2">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </node>
+    <node id="Feelim">
+      <data key="d0">organization</data>
+      <data key="d1">Feelim is a company that helps optimize content for social media using artificial intelligence (GenAI).</data>
+      <data key="d2">chunk-47f2c6b21a674a6f64cbb9be8324595d</data>
+    </node>
+    <node id="Social Media">
+      <data key="d0">category</data>
+      <data key="d1">Social Media platforms where content is optimized using Feelim's AI technology, enhancing reach and engagement.</data>
+      <data key="d2">chunk-47f2c6b21a674a6f64cbb9be8324595d</data>
+    </node>
+    <node id="Lumiere Formation">
+      <data key="d0">organization</data>
+      <data key="d1">Lumiere Formation is a company based in Rennes, specializing in training organizations such as enterprises, unions, and media outlets on the use of Generative AI. They offer a flagship one-day workshop focused on practical exercises.</data>
+      <data key="d2">chunk-23680da9fb08ea9f0a2fe51d59a588ed</data>
+    </node>
+    <node id="Enterprises">
+      <data key="d0">category</data>
+      <data key="d1">Enterprises are one of the categories of organizations that Lumiere Formation provides Generative AI training for, helping them integrate AI into their operations.</data>
+      <data key="d2">chunk-23680da9fb08ea9f0a2fe51d59a588ed</data>
+    </node>
+    <node id="Unions">
+      <data key="d0">category</data>
+      <data key="d1">Unions are another category of organizations that receive Generative AI training from Lumiere Formation, aiming to enhance their understanding and application of AI technologies.</data>
+      <data key="d2">chunk-23680da9fb08ea9f0a2fe51d59a588ed</data>
+    </node>
+    <node id="Media Outlets">
+      <data key="d0">category</data>
+      <data key="d1">Media Outlets are included in the range of organizations that Lumiere Formation assists, focusing on how these outlets can benefit from Generative AI solutions.</data>
+      <data key="d2">chunk-23680da9fb08ea9f0a2fe51d59a588ed</data>
+    </node>
+    <node id="Conjecto">
+      <data key="d0">organization</data>
+      <data key="d1">Conjecto is a company involved in training, consulting, and developing solutions related to Generative AI.</data>
+      <data key="d2">chunk-6d203a0a43c6e87e6c369bd937647b49</data>
+    </node>
+    <node id="Chaire Managia">
+      <data key="d0">organization</data>
+      <data key="d1">Chaire Managia is an organization aiming to explore the impact of conversational and generative artificial intelligence on management practices. It is co-founded by the Polaria Group, ISEN Ouest engineering school, and the Strate School of Design.</data>
+      <data key="d2">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </node>
+    <node id="Polaria Group">
+      <data key="d0">organization</data>
+      <data key="d1">Polaria Group is one of the co-founders of Chaire Managia, involved in exploring AI impact on management.</data>
+      <data key="d2">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </node>
+    <node id="ISEN Ouest">
+      <data key="d0">organization</data>
+      <data key="d1">ISEN Ouest is an engineering school co-founding Chaire Managia, focusing on AI impact.</data>
+      <data key="d2">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </node>
+    <node id="Strate School of Design">
+      <data key="d0">organization</data>
+      <data key="d1">Strate School of Design is a design school co-founding Chaire Managia, focusing on AI impact.</data>
+      <data key="d2">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </node>
+    <node id="Brest">
+      <data key="d0">geo</data>
+      <data key="d1">Brest is the location where Chaire Managia is based.&lt;SEP&gt;Brest is the location where Tristan Legros is based.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c&lt;SEP&gt;chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </node>
+    <node id="Intelligence Artificielle Conversationnelle">
+      <data key="d0">category</data>
+      <data key="d1">Intelligence Artificielle Conversationnelle refers to conversational artificial intelligence, which is a focus area in Chaire Managia's mission to explore its impact on management.</data>
+      <data key="d2">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </node>
+    <node id="Intelligence Artificielle Générative">
+      <data key="d0">category</data>
+      <data key="d1">Intelligence Artificielle Générative refers to generative artificial intelligence, which Chaire Managia is researching for its potential impact on management practices.</data>
+      <data key="d2">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </node>
+    <node id="Tristan Legros">
       <data key="d0">person</data>
-      <data key="d1">Sophie Lemoine is a 35-year-old HR manager with 15 years of experience, working for a large industrial group with over 10,000 employees, based in Bordeaux, France.&lt;SEP&gt;Sophie Lemoine is the head of human resources who uses GenRAG to automate access to HR documentation.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+      <data key="d1">Tristan Legros is a freelance creative consultant and trainer specializing in tools for creating images and videos. He works frequently with agencies and clients such as Publicis, Coty, Renault, and Mondelez.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Banque Nationale">
+    <node id="Publicis">
       <data key="d0">organization</data>
-      <data key="d1">Banque Nationale is a national bank with thousands of regulatory reports, where Paul Garnier ensures compliance with laws.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba</data>
+      <data key="d1">Publicis is an agency with which Tristan Legros frequently collaborates.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Grand Groupe Industriel">
+    <node id="Coty">
       <data key="d0">organization</data>
-      <data key="d1">Grand Groupe Industriel is a large industrial group with over 10,000 employees where Sophie Lemoine works as an HR manager.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba</data>
+      <data key="d1">Coty is a client of Tristan Legros, indicating a business relationship.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Next.js">
-      <data key="d0">technology</data>
-      <data key="d1">Next.js is a framework for building web applications with features like Server-Side Rendering (SSR) and Static Site Generation (SSG), enhancing performance and SEO.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba</data>
-    </node>
-    <node id="Nest.js">
-      <data key="d0">technology</data>
-      <data key="d1">Nest.js is a TypeScript-based framework following a modular architecture, ideal for managing microservices such as users and configurations.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba</data>
-    </node>
-    <node id="PostgreSQL">
-      <data key="d0">technology</data>
-      <data key="d1">PostgreSQL is a powerful relational database management system known for its advanced data handling, indexing capabilities, and data integrity.&lt;SEP&gt;PostgreSQL is a powerful, open-source object-relational database system utilized in the Neon serverless database offering.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Docker">
-      <data key="d0">technology</data>
-      <data key="d1">Docker is a containerization platform that encapsulates everything needed for an application to run, allowing for portable and scalable deployment.&lt;SEP&gt;Docker is a platform for containerization, allowing for portable deployment by encapsulating everything needed to run an application in a container.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Kubernetes">
-      <data key="d0">technology</data>
-      <data key="d1">Kubernetes is a container orchestration system that automates deployment, scaling, and management of containerized applications.&lt;SEP&gt;Kubernetes is an orchestration platform that manages containerized applications across a cluster of machines, facilitating scalability and deployment.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Google Cloud Platform">
-      <data key="d0">technology</data>
-      <data key="d1">Google Cloud Platform is a suite of cloud computing services that enables the deployment and operation of applications using Google's infrastructure.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba</data>
-    </node>
-    <node id="Grafana">
-      <data key="d0">technology</data>
-      <data key="d1">Grafana is a tool that visualizes data from Prometheus, creating interactive dashboards and alerting notifications.&lt;SEP&gt;Grafana is an open-source platform for monitoring and observability, providing powerful visualization capabilities.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Prometheus">
-      <data key="d0">technology</data>
-      <data key="d1">Prometheus is a monitoring tool that collects and stores metrics from cloud-native applications like Kubernetes, offering powerful alerting capabilities.&lt;SEP&gt;Prometheus is an open-source monitoring and alerting toolkit, widely used for recording real-time metrics in a time-series database.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Helm">
-      <data key="d0">technology</data>
-      <data key="d1">Helm is a package manager for Kubernetes, facilitating the management of Kubernetes applications.&lt;SEP&gt;Helm is a tool for managing Kubernetes applications, allowing for easy versioning and updating through the use of charts.</data>
-      <data key="d2">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Google Cloud Platform (GCP)">
-      <data key="d0">technology</data>
-      <data key="d1">Google Cloud Platform provides cloud services including Google's managed Kubernetes service and tools for building CI/CD pipelines.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Neon">
-      <data key="d0">technology</data>
-      <data key="d1">Neon offers a managed and scalable PostgreSQL serverless database with automatic scaling and usage-based billing.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Pinecone">
-      <data key="d0">technology</data>
-      <data key="d1">Pinecone is a vector database optimized for semantic search and efficient retrieval of relevant documents.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Python">
-      <data key="d0">technology</data>
-      <data key="d1">Python is a programming language commonly used in artificial intelligence.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="FastAPI">
-      <data key="d0">technology</data>
-      <data key="d1">FastAPI is a web framework for building APIs with high performance and optimized features.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="LangChain">
-      <data key="d0">technology</data>
-      <data key="d1">LangChain is a framework for creating complex pipelines optimized for vector-based retrieval and guidance (RAG).</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="LightRAG">
-      <data key="d0">technology</data>
-      <data key="d1">LightRAG combines vector indexing and graphs for optimized search capabilities, ideal for graph-based retrieval.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="IES Deployment">
+    <node id="Renault">
       <data key="d0">organization</data>
-      <data key="d1">IES Deployment refers to the organization or project responsible for selecting and integrating key technologies for efficient deployment.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
+      <data key="d1">Renault is a client of Tristan Legros, indicating a business relationship.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Road-map">
-      <data key="d0">event</data>
-      <data key="d1">The Road-map outlines the different phases of development and deployment, from conception to advanced functionalities.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="CI/CD pipelines">
-      <data key="d0">technology</data>
-      <data key="d1">CI/CD pipelines provide a process framework for continual integration, delivery, and deployment in software development.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Vector RAG">
-      <data key="d0">category</data>
-      <data key="d1">Vector RAG refers to vector-retrieval and guidance systems using vector databases to enhance document search and retrieval.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Graph RAG">
-      <data key="d0">category</data>
-      <data key="d1">Graph RAG involves using graph-based systems along with vector indexing for better search and retrieval capabilities.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="NestJS">
-      <data key="d0">technology</data>
-      <data key="d1">NestJS is a framework for building scalable and efficient server-side applications, monitored by tools like Prometheus.</data>
-      <data key="d2">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </node>
-    <node id="Ingestion, Tokenization, and Embedding">
-      <data key="d0">category</data>
-      <data key="d1">These are initial processes involved in handling documents, including the extraction and processing of information for further analysis.</data>
-      <data key="d2">chunk-f8cb7e9b0a68ea1e1e276ff14601acb7</data>
-    </node>
-    <node id="Frontend &amp; User Experience Development">
-      <data key="d0">category</data>
-      <data key="d1">This involves creating user interfaces and prototypes to enhance user interaction and visualize queries and responses.</data>
-      <data key="d2">chunk-f8cb7e9b0a68ea1e1e276ff14601acb7</data>
-    </node>
-    <node id="Launch &amp; Advanced Features">
-      <data key="d0">event</data>
-      <data key="d1">The phase involves deploying systems in production, acquiring clients, collecting feedback, and integrating new AI functionalities such as image analysis.</data>
-      <data key="d2">chunk-f8cb7e9b0a68ea1e1e276ff14601acb7</data>
-    </node>
-    <node id="PoC Innovation">
+    <node id="Mondelez">
       <data key="d0">organization</data>
-      <data key="d1">PoC Innovation is an organization associated with AI expert Valentin Peron, contributing to GenRAG's integration of technological advancements.&lt;SEP&gt;PoC Innovation is an organization where both Valentin Peron and Quentin Bolloré work as AI R&amp;D Developer and Software R&amp;D Developer, respectively.</data>
-      <data key="d2">chunk-f8cb7e9b0a68ea1e1e276ff14601acb7&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+      <data key="d1">Mondelez is a client of Tristan Legros, indicating a business relationship.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Machine Learning and Deep Learning">
+    <node id="Creation Tools">
       <data key="d0">category</data>
-      <data key="d1">These are fields of artificial intelligence focused on building algorithms that can learn from and make predictions on data.</data>
-      <data key="d2">chunk-f8cb7e9b0a68ea1e1e276ff14601acb7</data>
+      <data key="d1">Creation Tools include a variety of software and platforms used by Tristan Legros to create images and videos, such as Midjourney, Seelab.ai, EverArt, Adobe Firefly, Flair.ai, Runway, Pika, and Kling.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="LLM (Large Language Model)">
-      <data key="d0">category</data>
-      <data key="d1">LLM refers to a machine learning model designed to understand and generate human language text, which Valentin Peron is experienced in developing.</data>
-      <data key="d2">chunk-f8cb7e9b0a68ea1e1e276ff14601acb7</data>
+    <node id="Midjourney">
+      <data key="d0">organization</data>
+      <data key="d1">Midjourney is a platform or tool used by Tristan Legros for generating creative content.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="IT Project Management">
-      <data key="d0">category</data>
-      <data key="d1">IT Project Management refers to the disciplined approach to managing technology projects, a field in which Julie Martin operates while using GenRAG.</data>
-      <data key="d2">chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+    <node id="Seelab.ai">
+      <data key="d0">organization</data>
+      <data key="d1">Seelab.ai is a tool utilized by Tristan Legros to support his creative consultancy work.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Risk Management">
-      <data key="d0">category</data>
-      <data key="d1">Risk Management involves identifying, assessing, and prioritizing risks, a practice in which Paul Garnier engages while utilizing GenRAG.</data>
-      <data key="d2">chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+    <node id="EverArt">
+      <data key="d0">organization</data>
+      <data key="d1">EverArt is a creative tool employed by Tristan Legros in his consultancy and training activities.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Human Resources">
-      <data key="d0">category</data>
-      <data key="d1">Human Resources is a field focusing on the management of people within organizations, relevant to Sophie Lemoine's use of GenRAG for accessing HR documentation.</data>
-      <data key="d2">chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+    <node id="Adobe Firefly">
+      <data key="d0">organization</data>
+      <data key="d1">Adobe Firefly is a platform used by Tristan Legros for creative tasks involving images and videos.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Regulatory Information">
-      <data key="d0">category</data>
-      <data key="d1">Regulatory Information entails the rules and guidelines businesses must follow, which Paul Garnier retrieves using GenRAG for compliance.</data>
-      <data key="d2">chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+    <node id="Flair.ai">
+      <data key="d0">organization</data>
+      <data key="d1">Flair.ai is a tool that Tristan Legros uses as part of his creative consultancy toolkit.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <node id="Compliance">
-      <data key="d0">category</data>
-      <data key="d1">Compliance involves adhering to laws and regulations, and is a key aspect of Paul Garnier's utilization of GenRAG.</data>
-      <data key="d2">chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+    <node id="Runway">
+      <data key="d0">organization</data>
+      <data key="d1">Runway is one of the many creative tools used by Tristan Legros to fulfill client requirements.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
     </node>
-    <edge source="GENRAG" target="RAG">
+    <node id="Pika">
+      <data key="d0">organization</data>
+      <data key="d1">Pika is included in the suite of creative tools used by Tristan Legros for generating images and videos.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
+    </node>
+    <node id="Kling">
+      <data key="d0">organization</data>
+      <data key="d1">Kling is a creative tool utilized by Tristan Legros to support his freelance activities.</data>
+      <data key="d2">chunk-cb9eb155e159884324b43e94d668366c</data>
+    </node>
+    <edge source="Devana" target="Herbignac">
+      <data key="d3">7.0</data>
+      <data key="d4">Devana is based in Herbignac, suggesting its geographical operations and origin.</data>
+      <data key="d5">location, operations</data>
+      <data key="d6">chunk-d46898341329c06ddc27a29a2d37f6da</data>
+    </edge>
+    <edge source="Generative AI" target="Lumiere Formation">
       <data key="d3">9.0</data>
-      <data key="d4">GENRAG develops and promotes the use of RAG systems for more reliable and up-to-date information processing for enterprises.</data>
-      <data key="d5">technology deployment, innovation</data>
-      <data key="d6">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
+      <data key="d4">Lumiere Formation specializes in training organizations to use Generative AI, demonstrating their expertise and service offerings in this category.</data>
+      <data key="d5">training, expertise</data>
+      <data key="d6">chunk-23680da9fb08ea9f0a2fe51d59a588ed</data>
     </edge>
-    <edge source="GENRAG" target="ChatGPT">
+    <edge source="Polaria" target="Finistère">
       <data key="d3">8.0</data>
-      <data key="d4">GENRAG critiques ChatGPT for its limitations in enterprise adaptability and promotes RAG as a more effective solution.</data>
-      <data key="d5">comparison, innovation</data>
-      <data key="d6">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
+      <data key="d4">Polaria is headquartered in Finistère, which is the base of its operations in France.</data>
+      <data key="d5">location, operations</data>
+      <data key="d6">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
     </edge>
-    <edge source="GENRAG" target="Quentin Bolloré">
+    <edge source="Polaria" target="Conferences on Acculturation">
+      <data key="d3">7.0</data>
+      <data key="d4">Polaria organizes conferences on acculturation to promote understanding and integration of AI technologies.</data>
+      <data key="d5">events, education</data>
+      <data key="d6">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </edge>
+    <edge source="Polaria" target="Development of Chatbot and Conversational AI">
+      <data key="d3">9.0</data>
+      <data key="d4">The company's technological subsidiary has been developing chatbot and conversational AI solutions since 2016.</data>
+      <data key="d5">technology development, innovation</data>
+      <data key="d6">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </edge>
+    <edge source="Polaria" target="Training and Bespoke Solutions Development">
+      <data key="d3">8.0</data>
+      <data key="d4">Polaria offers training and develops tailor-made solutions focusing on human-centered, AI-guided strategies.</data>
+      <data key="d5">services, customization</data>
+      <data key="d6">chunk-2190e71089edbc6329f43c145d5f6b8f</data>
+    </edge>
+    <edge source="Qwanteos" target="Nantes">
+      <data key="d3">8.0</data>
+      <data key="d4">Qwanteos is located in Nantes, which is its geographical base of operations.</data>
+      <data key="d5">location, business operations</data>
+      <data key="d6">chunk-72ea6bd87ca53cc4749f9c56690af7b3</data>
+    </edge>
+    <edge source="Qwanteos" target="GenAI">
+      <data key="d3">9.0</data>
+      <data key="d4">Qwanteos provides services related to GenAI, including data processing, annotation, and labeling to support AI professionals.</data>
+      <data key="d5">AI services, support</data>
+      <data key="d6">chunk-72ea6bd87ca53cc4749f9c56690af7b3</data>
+    </edge>
+    <edge source="Qwanteos" target="Data Processing">
+      <data key="d3">10.0</data>
+      <data key="d4">Qwanteos specializes in data processing services, including comprehensive annotation and labeling of datasets for AI models.</data>
+      <data key="d5">data services, specialization</data>
+      <data key="d6">chunk-72ea6bd87ca53cc4749f9c56690af7b3</data>
+    </edge>
+    <edge source="Nantes" target="Kalent">
+      <data key="d3">7.0</data>
+      <data key="d4">Kalent is based in Nantes, indicating its geographic headquarters.</data>
+      <data key="d5">location, headquarters</data>
+      <data key="d6">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </edge>
+    <edge source="GenAI" target="Airon Band">
+      <data key="d3">8.0</data>
+      <data key="d4">Airon Band utilizes GenAI technologies to offer career management solutions for artists, integrating advanced AI capabilities.</data>
+      <data key="d5">technology integration, career management</data>
+      <data key="d6">chunk-a20c953c5f89062c833be676448740de</data>
+    </edge>
+    <edge source="GenAI" target="Backprop">
+      <data key="d3">9.0</data>
+      <data key="d4">Backprop specializes in providing services related to GenAI, leveraging it to help businesses increase productivity and creativity.</data>
+      <data key="d5">business services, technology integration</data>
+      <data key="d6">chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </edge>
+    <edge source="GenAI" target="Angel Start">
+      <data key="d3">10.0</data>
+      <data key="d4">Angel Start operates within the GenAI category by developing an AI coach to facilitate business planning for project leaders.</data>
+      <data key="d5">innovation, AI technology</data>
+      <data key="d6">chunk-d15aedc6ba1a45cf2bc65f98ad7483be</data>
+    </edge>
+    <edge source="GenAI" target="Kalent">
+      <data key="d3">9.0</data>
+      <data key="d4">Kalent uses GenAI technologies to enhance its recruitment solutions and optimize talent searching.</data>
+      <data key="d5">technology application, innovation</data>
+      <data key="d6">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </edge>
+    <edge source="Miakito" target="Rennes">
+      <data key="d3">8.0</data>
+      <data key="d4">Miakito is located in Rennes, which is significant for its operations and geographic identity.</data>
+      <data key="d5">location, operations</data>
+      <data key="d6">chunk-fae50735eb929ee5d5e4d307acd3ee8d</data>
+    </edge>
+    <edge source="Rennes" target="Airon Band">
+      <data key="d3">7.0</data>
+      <data key="d4">Airon Band is located in Rennes, indicating its operational base and regional presence.</data>
+      <data key="d5">location, operational base</data>
+      <data key="d6">chunk-a20c953c5f89062c833be676448740de</data>
+    </edge>
+    <edge source="Rennes" target="Backprop">
+      <data key="d3">8.0</data>
+      <data key="d4">Backprop's headquarters are located in Rennes, indicating its geographical base.</data>
+      <data key="d5">location, base of operations</data>
+      <data key="d6">chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </edge>
+    <edge source="Rennes" target="2050score">
       <data key="d3">6.0</data>
-      <data key="d4">Quentin Bolloré is likely a key figure in GENRAG, contributing to its leadership and strategic direction.</data>
-      <data key="d5">leadership, strategic involvement</data>
-      <data key="d6">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
+      <data key="d4">2050score is located in Rennes, which is its base of operations.</data>
+      <data key="d5">location, business base</data>
+      <data key="d6">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
     </edge>
-    <edge source="GENRAG" target="Valentin Peron">
+    <edge source="Rennes" target="Feelim">
+      <data key="d3">7.0</data>
+      <data key="d4">Feelim is based in Rennes, which is significant as it is the company's main operational location.</data>
+      <data key="d5">location, operational base</data>
+      <data key="d6">chunk-47f2c6b21a674a6f64cbb9be8324595d</data>
+    </edge>
+    <edge source="Rennes" target="Lumiere Formation">
+      <data key="d3">8.0</data>
+      <data key="d4">Lumiere Formation is based in Rennes, establishing Rennes as the location of their headquarters and main operations.</data>
+      <data key="d5">location, operations</data>
+      <data key="d6">chunk-23680da9fb08ea9f0a2fe51d59a588ed</data>
+    </edge>
+    <edge source="Rennes" target="Conjecto">
+      <data key="d3">8.0</data>
+      <data key="d4">Conjecto is based in Rennes, indicating the geographic location of the organization.</data>
+      <data key="d5">location, business presence</data>
+      <data key="d6">chunk-6d203a0a43c6e87e6c369bd937647b49</data>
+    </edge>
+    <edge source="Backprop" target="Breton businesses">
+      <data key="d3">8.0</data>
+      <data key="d4">Backprop provides training and consultancy services in generative AI to help Breton businesses improve their operations.</data>
+      <data key="d5">service offering, regional focus</data>
+      <data key="d6">chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </edge>
+    <edge source="Backprop" target="SMEs">
+      <data key="d3">8.0</data>
+      <data key="d4">Backprop assists SMEs by helping them implement generative AI applications to boost their business outcomes.</data>
+      <data key="d5">service offering, business enhancement</data>
+      <data key="d6">chunk-37e55ced61ac5ceaeacf555634589bf4</data>
+    </edge>
+    <edge source="Angel Start" target="Saint-Malo">
+      <data key="d3">9.0</data>
+      <data key="d4">Angel Start is based in Saint-Malo, serving as their operational headquarters.</data>
+      <data key="d5">location, headquarters</data>
+      <data key="d6">chunk-d15aedc6ba1a45cf2bc65f98ad7483be</data>
+    </edge>
+    <edge source="Angel Start" target="big bpi">
+      <data key="d3">8.0</data>
+      <data key="d4">Angel Start will present their AI technology at Big BPI, indicating their strategy to engage and showcase within industry events.</data>
+      <data key="d5">presentation, industry engagement</data>
+      <data key="d6">chunk-d15aedc6ba1a45cf2bc65f98ad7483be</data>
+    </edge>
+    <edge source="2050score" target="Green Deal">
+      <data key="d3">8.0</data>
+      <data key="d4">2050score addresses and aligns its business activities around the key challenges and goals of the Green Deal to assist enterprises in achieving sustainable targets by 2050.</data>
+      <data key="d5">sustainability, strategic alignment</data>
+      <data key="d6">chunk-13b8cb1c8f2bd5468a8c968db5daa151</data>
+    </edge>
+    <edge source="Kalent" target="Recruiters">
+      <data key="d3">8.0</data>
+      <data key="d4">Recruiters use Kalent to optimize their talent search processes and access hard-to-find profiles.</data>
+      <data key="d5">user base, talent acquisition</data>
+      <data key="d6">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </edge>
+    <edge source="Kalent" target="ATS (Applicant Tracking System)">
+      <data key="d3">8.0</data>
+      <data key="d4">Kalent can integrate with ATS systems to offer an automated recruitment process.</data>
+      <data key="d5">process automation, system integration</data>
+      <data key="d6">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </edge>
+    <edge source="Kalent" target="LinkedIn">
+      <data key="d3">7.0</data>
+      <data key="d4">Kalent utilizes LinkedIn for conducting personalized recruitment campaigns.</data>
+      <data key="d5">partnerships, recruitment channels</data>
+      <data key="d6">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
+    </edge>
+    <edge source="Kalent" target="WhatsApp">
       <data key="d3">6.0</data>
-      <data key="d4">Valentin Peron is a significant figure within GENRAG, assisting with its development and operations.</data>
-      <data key="d5">development, operational role</data>
-      <data key="d6">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
+      <data key="d4">Kalent uses WhatsApp as a tool for multi-channel recruitment outreach.</data>
+      <data key="d5">communication, outreach strategies</data>
+      <data key="d6">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
     </edge>
-    <edge source="GENRAG" target="Julie Martin">
-      <data key="d3">9.0</data>
-      <data key="d4">Julie Martin uses GENRAG to overcome challenges with accessing and finding technical documentation, improving productivity and efficiency in her role.</data>
-      <data key="d5">productivity, efficiency improvement</data>
-      <data key="d6">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
+    <edge source="Kalent" target="Email">
+      <data key="d3">6.0</data>
+      <data key="d4">Kalent employs email as part of its multi-channel campaigns to recruit candidates.</data>
+      <data key="d5">communication, recruitment outreach</data>
+      <data key="d6">chunk-4fee8c1b91bb94846312c556f9ce0e8b</data>
     </edge>
-    <edge source="Quentin Bolloré" target="GenRAG">
-      <data key="d3">18.0</data>
-      <data key="d4">Quentin Bolloré is employed by GenRAG and handles the development of the platform and its deployment infrastructure.&lt;SEP&gt;Quentin Bolloré, as a full-stack developer, plays a role in the integration and deployment infrastructure of GenRAG's solutions.</data>
-      <data key="d5">development, infrastructure management&lt;SEP&gt;employment, infrastructure development</data>
-      <data key="d6">chunk-f8cb7e9b0a68ea1e1e276ff14601acb7&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+    <edge source="Chaire Managia" target="Polaria Group">
+      <data key="d3">8.0</data>
+      <data key="d4">Polaria Group co-founded Chaire Managia to explore the impact of AI on management.</data>
+      <data key="d5">collaboration, AI research</data>
+      <data key="d6">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
     </edge>
-    <edge source="Valentin Peron" target="GenRAG">
-      <data key="d3">18.0</data>
-      <data key="d4">Valentin Peron works for GenRAG, where he is in charge of implementing RAG solutions and integrating the latest AI advancements.&lt;SEP&gt;Valentin Peron, as an AI expert, contributes to the technological advancement and deployment of GenRAG's solutions.</data>
-      <data key="d5">employment, technology integration&lt;SEP&gt;technological advancement, expertise</data>
-      <data key="d6">chunk-f8cb7e9b0a68ea1e1e276ff14601acb7&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+    <edge source="Chaire Managia" target="ISEN Ouest">
+      <data key="d3">8.0</data>
+      <data key="d4">ISEN Ouest co-founded Chaire Managia to explore the impact of AI on management.</data>
+      <data key="d5">academic collaboration, AI research</data>
+      <data key="d6">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
     </edge>
-    <edge source="Valentin Peron" target="PoC Innovation">
+    <edge source="Chaire Managia" target="Strate School of Design">
+      <data key="d3">8.0</data>
+      <data key="d4">Strate School of Design co-founded Chaire Managia to explore the impact of AI on management.</data>
+      <data key="d5">design collaboration, AI research</data>
+      <data key="d6">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </edge>
+    <edge source="Chaire Managia" target="Brest">
       <data key="d3">7.0</data>
-      <data key="d4">Valentin Peron is associated with PoC Innovation, providing expertise to the GenRAG project.</data>
-      <data key="d5">professional affiliation, expertise contribution</data>
-      <data key="d6">chunk-4aea90e5250a24022de939ad5dee7b8f</data>
+      <data key="d4">Chaire Managia is based in Brest, which is its geographical location.</data>
+      <data key="d5">geographical location, base of operations</data>
+      <data key="d6">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
     </edge>
-    <edge source="ChatGPT" target="RAG">
+    <edge source="Chaire Managia" target="Intelligence Artificielle Conversationnelle">
       <data key="d3">8.0</data>
-      <data key="d4">RAG is positioned as a superior alternative to ChatGPT for enterprises, addressing its deficiencies in sourcing and dynamic updating.</data>
-      <data key="d5">technological advancement, strategic positioning</data>
-      <data key="d6">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
+      <data key="d4">Chaire Managia is exploring the impact of Intelligence Artificielle Conversationnelle on management of organizations.</data>
+      <data key="d5">AI impact, conversation technology</data>
+      <data key="d6">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
     </edge>
-    <edge source="RAG" target="Enterprise A">
+    <edge source="Chaire Managia" target="Intelligence Artificielle Générative">
+      <data key="d3">8.0</data>
+      <data key="d4">Chaire Managia is researching the impact of Intelligence Artificielle Générative on management practices.</data>
+      <data key="d5">AI impact, generative technology</data>
+      <data key="d6">chunk-e467ae00393c399e89d0bc5fab6e3d89</data>
+    </edge>
+    <edge source="Brest" target="Tristan Legros">
+      <data key="d3">6.0</data>
+      <data key="d4">Tristan Legros is based in Brest, which influences his geographical location for business operations and client interactions.</data>
+      <data key="d5">location, business operations</data>
+      <data key="d6">chunk-cb9eb155e159884324b43e94d668366c</data>
+    </edge>
+    <edge source="Tristan Legros" target="Publicis">
+      <data key="d3">8.0</data>
+      <data key="d4">Tristan Legros works frequently with Publicis, indicating a professional collaboration in creative projects.</data>
+      <data key="d5">professional collaboration, creative projects</data>
+      <data key="d6">chunk-cb9eb155e159884324b43e94d668366c</data>
+    </edge>
+    <edge source="Tristan Legros" target="Coty">
       <data key="d3">7.0</data>
-      <data key="d4">Enterprise A utilizes a moderate level of GENRAG's RAG technology, representing a cost-efficient integration for smaller companies.</data>
-      <data key="d5">technology implementation, cost-efficiency</data>
-      <data key="d6">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
+      <data key="d4">Tristan Legros serves as a consultant for Coty, providing creative solutions for their needs.</data>
+      <data key="d5">consultation, client services</data>
+      <data key="d6">chunk-cb9eb155e159884324b43e94d668366c</data>
     </edge>
-    <edge source="RAG" target="Enterprise B">
-      <data key="d3">8.0</data>
-      <data key="d4">Enterprise B requires an advanced application of GENRAG's RAG technology to meet high demands and large-scale operations.</data>
-      <data key="d5">high-demand usage, advanced application</data>
-      <data key="d6">chunk-da3c5aacef257fabd20a5dca1fda624b</data>
-    </edge>
-    <edge source="RAG" target="GenRAG">
-      <data key="d3">9.0</data>
-      <data key="d4">GenRAG uses Retrieval-Augmented Generation (RAG) techniques to enhance internal knowledge access.</data>
-      <data key="d5">technology implementation, enhancement</data>
-      <data key="d6">chunk-4aea90e5250a24022de939ad5dee7b8f</data>
-    </edge>
-    <edge source="Julie Martin" target="Bordeaux, France">
-      <data key="d3">5.0</data>
-      <data key="d4">Julie Martin is based in Bordeaux, France, where she works as a technical project manager.</data>
-      <data key="d5">geo-location, professional context</data>
-      <data key="d6">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
-    </edge>
-    <edge source="Julie Martin" target="Société de logiciels SaaS">
-      <data key="d3">8.0</data>
-      <data key="d4">Julie Martin works as a technical project manager for a SaaS software company, focusing on IT project management.</data>
-      <data key="d5">employment, professional role</data>
-      <data key="d6">chunk-8280ffbd9d54081ce104d114c4f88f68</data>
-    </edge>
-    <edge source="Julie Martin" target="GenRAG">
-      <data key="d3">8.0</data>
-      <data key="d4">Julie Martin utilizes GenRAG to efficiently access technical documents for her IT project management work.</data>
-      <data key="d5">technology utilization, efficiency</data>
-      <data key="d6">chunk-4aea90e5250a24022de939ad5dee7b8f</data>
-    </edge>
-    <edge source="Paul Garnier" target="GenRAG">
-      <data key="d3">17.0</data>
-      <data key="d4">Paul Garnier uses GenRAG to quickly find regulatory norms and reports for compliance purposes.&lt;SEP&gt;Paul Garnier uses GenRAG to retrieve regulatory information for compliance in his role as a risk management consultant.</data>
-      <data key="d5">compliance, information retrieval&lt;SEP&gt;information retrieval, compliance</data>
-      <data key="d6">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
-    </edge>
-    <edge source="Paul Garnier" target="Banque Nationale">
-      <data key="d3">8.0</data>
-      <data key="d4">Paul Garnier works at Banque Nationale, utilizing GenRAG to ensure the bank's compliance with existing laws.</data>
-      <data key="d5">employment, compliance management</data>
-      <data key="d6">chunk-98fc97d0379388600a132aa1dea2c9ba</data>
-    </edge>
-    <edge source="GenRAG" target="Sophie Lemoine">
-      <data key="d3">17.0</data>
-      <data key="d4">Sophie Lemoine relies on GenRAG to automate and simplify access to HR documentation.&lt;SEP&gt;Sophie Lemoine uses GenRAG to streamline access to HR documents, improving team efficiency and automating information retrieval for managers and collaborators.</data>
-      <data key="d5">automation, document access&lt;SEP&gt;information retrieval, efficiency</data>
-      <data key="d6">chunk-98fc97d0379388600a132aa1dea2c9ba&lt;SEP&gt;chunk-4aea90e5250a24022de939ad5dee7b8f</data>
-    </edge>
-    <edge source="Sophie Lemoine" target="Grand Groupe Industriel">
-      <data key="d3">8.0</data>
-      <data key="d4">Sophie Lemoine manages HR for Grand Groupe Industriel, streamlining HR processes through intelligent search solutions.</data>
-      <data key="d5">employment, HR management</data>
-      <data key="d6">chunk-98fc97d0379388600a132aa1dea2c9ba</data>
-    </edge>
-    <edge source="Docker" target="Kubernetes">
-      <data key="d3">9.0</data>
-      <data key="d4">Docker containers are orchestrated and managed by Kubernetes to streamline application deployment and scaling.</data>
-      <data key="d5">orchestration, scalability</data>
-      <data key="d6">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </edge>
-    <edge source="Kubernetes" target="Helm">
-      <data key="d3">8.0</data>
-      <data key="d4">Helm manages configurations and updates for Kubernetes applications, simplifying version control and deployment adjustments.</data>
-      <data key="d5">configuration management, deployment optimization</data>
-      <data key="d6">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </edge>
-    <edge source="Kubernetes" target="Google Cloud Platform (GCP)">
-      <data key="d3">9.0</data>
-      <data key="d4">GCP offers a managed service for Kubernetes, simplifying orchestration and deployment processes.</data>
-      <data key="d5">cloud infrastructure, service management</data>
-      <data key="d6">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </edge>
-    <edge source="Grafana" target="Prometheus">
-      <data key="d3">8.0</data>
-      <data key="d4">Prometheus provides data that is visualized and monitored through Grafana dashboards and alerts.</data>
-      <data key="d5">data visualization, monitoring</data>
-      <data key="d6">chunk-0ba43f85d6b1797f61af02a068d95226</data>
-    </edge>
-    <edge source="Prometheus" target="NestJS">
+    <edge source="Tristan Legros" target="Renault">
       <data key="d3">7.0</data>
-      <data key="d4">Prometheus scrapes metrics in real-time from applications like those built with NestJS, improving monitoring and alerting capabilities.</data>
-      <data key="d5">real-time monitoring, performance analysis</data>
-      <data key="d6">chunk-0ba43f85d6b1797f61af02a068d95226</data>
+      <data key="d4">Tristan Legros collaborates with Renault as part of his consultancy services, focusing on creative tasks.</data>
+      <data key="d5">client collaboration, creative tasks</data>
+      <data key="d6">chunk-cb9eb155e159884324b43e94d668366c</data>
     </edge>
-    <edge source="LangChain" target="LightRAG">
+    <edge source="Tristan Legros" target="Mondelez">
       <data key="d3">7.0</data>
-      <data key="d4">LangChain and LightRAG are both used in creating RAG systems, combining different approaches for efficient search and retrieval.</data>
-      <data key="d5">retrieval optimization, framework integration</data>
-      <data key="d6">chunk-0ba43f85d6b1797f61af02a068d95226</data>
+      <data key="d4">Tristan Legros works with Mondelez to provide creative and consultancy services.</data>
+      <data key="d5">business relationship, consultancy</data>
+      <data key="d6">chunk-cb9eb155e159884324b43e94d668366c</data>
     </edge>
-    <edge source="IES Deployment" target="Road-map">
-      <data key="d3">8.0</data>
-      <data key="d4">The Road-map guides the IES Deployment team's strategy in developing and deploying their platform efficiently.</data>
-      <data key="d5">strategic planning, project management</data>
-      <data key="d6">chunk-0ba43f85d6b1797f61af02a068d95226</data>
+    <edge source="Tristan Legros" target="Creation Tools">
+      <data key="d3">9.0</data>
+      <data key="d4">Tristan Legros utilizes a range of creation tools in his work to meet diverse client needs.</data>
+      <data key="d5">tool usage, creative processes</data>
+      <data key="d6">chunk-cb9eb155e159884324b43e94d668366c</data>
     </edge>
   </graph>
 </graphml>

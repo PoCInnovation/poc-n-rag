@@ -7,6 +7,7 @@ from pinecone import Pinecone, ServerlessSpec
 import time
 from router_VectorRAG.router_Vector_RAG import router_Vector_RAG
 from router_LightRAG.router_Light_RAG import router_Light_RAG
+from router_documents.router_documents import router_documents
 
 app = FastAPI()
 
@@ -25,7 +26,6 @@ async def welcome():
     return {"Welcome to the POC-N-RAG API"}
 
 # Include routers to enable each part to be splited into multiples dedicated routers
-# app.include_router(None, prefix="/LightRAG", tags=["LightRAG"])
 app.include_router(router_Vector_RAG, prefix="/VectorRAG", tags=["VectorRag"])
 app.include_router(router_Light_RAG, prefix="/LightRAG", tags=["LightRag"])
-# app.include_router(None, prefix="/documents", tags=["documents"])
+app.include_router(router_documents, prefix="/documents", tags=["documents"])
