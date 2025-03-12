@@ -163,6 +163,24 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "What is a Rag"
+    },
+    "83e31afa10317c698dff0d3c7c5e9e30": {
+      "return": "{\"high_level_keywords\": [\"Query understanding\", \"Keyword identification\"], \"low_level_keywords\": [\"a%2stream/0rag\", \"Query clarification\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is a%2stream/0rag ?"
+    },
+    "6184465d78a46bc84c81fbea83e70da7": {
+      "return": "{\"high_level_keywords\": [\"GenRAG\", \"Explanation\"], \"low_level_keywords\": [\"Generative Retrieval-Augmented Generation\", \"AI model\", \"Data retrieval\", \"Machine learning\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Explain GenRAG "
     }
   },
   "hybrid": {

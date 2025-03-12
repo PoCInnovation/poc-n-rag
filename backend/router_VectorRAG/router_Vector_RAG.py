@@ -129,6 +129,13 @@ def documents_list_to_RAG_context(documents):
         for doc in documents
     ]
 
+async def print_stream(stream):
+    async for chunk in stream:
+        if chunk:
+            yield chunk
+
+import asyncio
+
 @router_Vector_RAG.post("/query/")
 async def query(query: str):
     documents = get_documents(query, top_k=PINECONE_TOP_K)
@@ -140,14 +147,12 @@ async def query(query: str):
     for id in reranked_ids:
         rerank_documents.append(documents[id])
 
-    for doc in rerank_documents:
-        print(doc)
-        print()
-
-
     messages = custom_prompt.invoke({"question": query, "context": documents_list_to_RAG_context(rerank_documents)})
-    response = llm.invoke(messages)
-
-    return Response(content=response.content, media_type="text/markdown")
 
 
+    async def generate():
+        for chunk in llm.stream(messages):
+            if chunk.content:
+                yield chunk.content
+
+    return StreamingResponse(generate(), media_type="text/plain")
